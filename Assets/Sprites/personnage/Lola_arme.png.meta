@@ -1,0 +1,5167 @@
+fileFormatVersion: 2
+guid: 2f2a321b71fab6843936c89c6c85be0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4220119681947933783
+    second: Lola_arme_0
+  - first:
+      213: -7287915288555657916
+    second: Lola_arme_1
+  - first:
+      213: -4828827210412637128
+    second: Lola_arme_2
+  - first:
+      213: 2538471082380256334
+    second: Lola_arme_3
+  - first:
+      213: 1403205029793587692
+    second: Lola_arme_4
+  - first:
+      213: 9121930442895079604
+    second: Lola_arme_5
+  - first:
+      213: -877403180334633244
+    second: Lola_arme_6
+  - first:
+      213: 1883700752229103847
+    second: Lola_arme_7
+  - first:
+      213: 6147904027626943560
+    second: Lola_arme_8
+  - first:
+      213: 1372259353024020246
+    second: Lola_arme_9
+  - first:
+      213: 4848184403219535463
+    second: Lola_arme_10
+  - first:
+      213: -5000593012199056160
+    second: Lola_arme_11
+  - first:
+      213: -1446276241685666232
+    second: Lola_arme_12
+  - first:
+      213: -7019709054457460446
+    second: Lola_arme_13
+  - first:
+      213: -7198268427369749742
+    second: Lola_arme_14
+  - first:
+      213: -1009183407944733798
+    second: Lola_arme_15
+  - first:
+      213: -2300065219999394984
+    second: Lola_arme_16
+  - first:
+      213: 1408775823836493559
+    second: Lola_arme_17
+  - first:
+      213: 713505762338298441
+    second: Lola_arme_18
+  - first:
+      213: 1735065114114167861
+    second: Lola_arme_19
+  - first:
+      213: 2353226740805308676
+    second: Lola_arme_20
+  - first:
+      213: -9010082314501745735
+    second: Lola_arme_21
+  - first:
+      213: -76169951925778332
+    second: Lola_arme_22
+  - first:
+      213: -3402414439879172721
+    second: Lola_arme_23
+  - first:
+      213: 5326027498380312446
+    second: Lola_arme_24
+  - first:
+      213: -6566276424156601483
+    second: Lola_arme_25
+  - first:
+      213: 378275999338005076
+    second: Lola_arme_26
+  - first:
+      213: -4126550577410085083
+    second: Lola_arme_27
+  - first:
+      213: -1108471688728338813
+    second: Lola_arme_28
+  - first:
+      213: 5180623413771976686
+    second: Lola_arme_29
+  - first:
+      213: 8067460755825678097
+    second: Lola_arme_30
+  - first:
+      213: 8869075494527584815
+    second: Lola_arme_31
+  - first:
+      213: -2054050544260496188
+    second: Lola_arme_32
+  - first:
+      213: 642939024118215638
+    second: Lola_arme_33
+  - first:
+      213: -5638139648336806359
+    second: Lola_arme_34
+  - first:
+      213: 3764539162090429866
+    second: Lola_arme_35
+  - first:
+      213: 2123795428615328160
+    second: Lola_arme_36
+  - first:
+      213: 1156377084324439032
+    second: Lola_arme_37
+  - first:
+      213: 7370558324315406376
+    second: Lola_arme_38
+  - first:
+      213: -2674731610428370005
+    second: Lola_arme_39
+  - first:
+      213: 4009211620996675961
+    second: Lola_arme_40
+  - first:
+      213: -6763636288249486969
+    second: Lola_arme_41
+  - first:
+      213: 349532717296518164
+    second: Lola_arme_42
+  - first:
+      213: -7999617224020880154
+    second: Lola_arme_43
+  - first:
+      213: 7767605051631124434
+    second: Lola_arme_44
+  - first:
+      213: -1620284481557155107
+    second: Lola_arme_45
+  - first:
+      213: 6781344727018762748
+    second: Lola_arme_46
+  - first:
+      213: 8548133540321155646
+    second: Lola_arme_47
+  - first:
+      213: 2475066674238182966
+    second: Lola_arme_48
+  - first:
+      213: 4422118853431917047
+    second: Lola_arme_49
+  - first:
+      213: -5406244877592876931
+    second: Lola_arme_50
+  - first:
+      213: -7411404360004137800
+    second: Lola_arme_51
+  - first:
+      213: 5386499044849770260
+    second: Lola_arme_52
+  - first:
+      213: 7536472616045145186
+    second: Lola_arme_53
+  - first:
+      213: 2532693045858956831
+    second: Lola_arme_54
+  - first:
+      213: 2641449292243510443
+    second: Lola_arme_55
+  - first:
+      213: -4051785668496342515
+    second: Lola_arme_56
+  - first:
+      213: -3909742431948536102
+    second: Lola_arme_57
+  - first:
+      213: -4916417292556600890
+    second: Lola_arme_58
+  - first:
+      213: 6703678719843192661
+    second: Lola_arme_59
+  - first:
+      213: -7863939251368297028
+    second: Lola_arme_60
+  - first:
+      213: 455352679160767214
+    second: Lola_arme_61
+  - first:
+      213: -8299134293653217922
+    second: Lola_arme_62
+  - first:
+      213: -4435511365013688865
+    second: Lola_arme_63
+  - first:
+      213: -8402013310739664370
+    second: Lola_arme_64
+  - first:
+      213: 4583077663964258638
+    second: Lola_arme_65
+  - first:
+      213: 2182371489537885437
+    second: Lola_arme_66
+  - first:
+      213: -4886563675475685149
+    second: Lola_arme_67
+  - first:
+      213: 1041883850921624267
+    second: Lola_arme_68
+  - first:
+      213: -5722622179065680337
+    second: Lola_arme_69
+  - first:
+      213: -6123479632395600056
+    second: Lola_arme_70
+  - first:
+      213: -7080499445292425049
+    second: Lola_arme_71
+  - first:
+      213: -6254702069793705090
+    second: Lola_arme_72
+  - first:
+      213: -2714223118941092838
+    second: Lola_arme_73
+  - first:
+      213: 5390595331943415024
+    second: Lola_arme_74
+  - first:
+      213: 2442820919793453219
+    second: Lola_arme_75
+  - first:
+      213: 5676136242189018746
+    second: Lola_arme_76
+  - first:
+      213: 4265786282281008333
+    second: Lola_arme_77
+  - first:
+      213: -2682000769886964503
+    second: Lola_arme_78
+  - first:
+      213: 537126370353526349
+    second: Lola_arme_79
+  - first:
+      213: 3011657901737051227
+    second: Lola_arme_80
+  - first:
+      213: -975369102076875773
+    second: Lola_arme_81
+  - first:
+      213: -3927760483971316138
+    second: Lola_arme_82
+  - first:
+      213: 7248627776975326302
+    second: Lola_arme_83
+  - first:
+      213: -1987989069336525720
+    second: Lola_arme_84
+  - first:
+      213: -5837998942905005185
+    second: Lola_arme_85
+  - first:
+      213: 149627204691778923
+    second: Lola_arme_86
+  - first:
+      213: 4423934863107272277
+    second: Lola_arme_87
+  - first:
+      213: -3949398803954480706
+    second: Lola_arme_88
+  - first:
+      213: 1134376045431986783
+    second: Lola_arme_89
+  - first:
+      213: 6217510397422015397
+    second: Lola_arme_90
+  - first:
+      213: 1944039289313417192
+    second: Lola_arme_91
+  - first:
+      213: -7626366384452341422
+    second: Lola_arme_92
+  - first:
+      213: -801805877511259062
+    second: Lola_arme_93
+  - first:
+      213: -3935073613714191083
+    second: Lola_arme_94
+  - first:
+      213: 8715915724417728374
+    second: Lola_arme_95
+  - first:
+      213: 8024129167712619349
+    second: Lola_arme_96
+  - first:
+      213: -5833704607495157801
+    second: Lola_arme_97
+  - first:
+      213: -2111382241987269262
+    second: Lola_arme_98
+  - first:
+      213: 3470458361777375139
+    second: Lola_arme_99
+  - first:
+      213: 2959648387619343486
+    second: Lola_arme_100
+  - first:
+      213: 8436456779346336166
+    second: Lola_arme_101
+  - first:
+      213: 5012438611338408668
+    second: Lola_arme_102
+  - first:
+      213: -926106063591246260
+    second: Lola_arme_103
+  - first:
+      213: -7472323860969153228
+    second: Lola_arme_104
+  - first:
+      213: 7409406184335126820
+    second: Lola_arme_105
+  - first:
+      213: -2722314941430641827
+    second: Lola_arme_106
+  - first:
+      213: -1209987891831812922
+    second: Lola_arme_107
+  - first:
+      213: -4353081262403380989
+    second: Lola_arme_108
+  - first:
+      213: -4868939410886578422
+    second: Lola_arme_109
+  - first:
+      213: 1959176192803468693
+    second: Lola_arme_110
+  - first:
+      213: -484572187105419880
+    second: Lola_arme_111
+  - first:
+      213: -5419109866516557634
+    second: Lola_arme_112
+  - first:
+      213: -4475074307638233852
+    second: Lola_arme_113
+  - first:
+      213: 8929079151668234372
+    second: Lola_arme_114
+  - first:
+      213: 5774238667662865981
+    second: Lola_arme_115
+  - first:
+      213: 1312040590928018399
+    second: Lola_arme_116
+  - first:
+      213: -318498617545903750
+    second: Lola_arme_117
+  - first:
+      213: -3910051870270900962
+    second: Lola_arme_118
+  - first:
+      213: 8908954599298612887
+    second: Lola_arme_119
+  - first:
+      213: 8936766496614152155
+    second: Lola_arme_120
+  - first:
+      213: -1796816674709668716
+    second: Lola_arme_121
+  - first:
+      213: -3833867555300043192
+    second: Lola_arme_122
+  - first:
+      213: -338767196760523253
+    second: Lola_arme_123
+  - first:
+      213: -1712362531386971406
+    second: Lola_arme_124
+  - first:
+      213: 4937746220634294985
+    second: Lola_arme_125
+  - first:
+      213: -7841459802618401763
+    second: Lola_arme_126
+  - first:
+      213: 6297903460497957571
+    second: Lola_arme_127
+  - first:
+      213: 3470664246254871392
+    second: Lola_arme_128
+  - first:
+      213: -5599882068819668010
+    second: Lola_arme_129
+  - first:
+      213: 1301336860973407685
+    second: Lola_arme_130
+  - first:
+      213: 7140358201736348695
+    second: Lola_arme_131
+  - first:
+      213: -3014836615497494391
+    second: Lola_arme_132
+  - first:
+      213: -4454562819804646960
+    second: Lola_arme_133
+  - first:
+      213: -8748842969193733974
+    second: Lola_arme_134
+  - first:
+      213: -8014979715617419065
+    second: Lola_arme_135
+  - first:
+      213: 7940556595573758439
+    second: Lola_arme_136
+  - first:
+      213: 8837770594868742222
+    second: Lola_arme_137
+  - first:
+      213: 6325854963419881647
+    second: Lola_arme_138
+  - first:
+      213: -1782567808200526794
+    second: Lola_arme_139
+  - first:
+      213: -7831468956882709102
+    second: Lola_arme_140
+  - first:
+      213: 2382676596320257468
+    second: Lola_arme_141
+  - first:
+      213: 1305239776724616232
+    second: Lola_arme_142
+  - first:
+      213: 4918731431883701360
+    second: Lola_arme_143
+  - first:
+      213: 6627031972397703259
+    second: Lola_arme_144
+  - first:
+      213: -4991924481829234549
+    second: Lola_arme_145
+  - first:
+      213: -6077249333426180100
+    second: Lola_arme_146
+  - first:
+      213: -591076093484515385
+    second: Lola_arme_147
+  - first:
+      213: -6664961369716372663
+    second: Lola_arme_148
+  - first:
+      213: 2069803348324698276
+    second: Lola_arme_149
+  - first:
+      213: -1637828696094932706
+    second: Lola_arme_150
+  - first:
+      213: -20236054423563383
+    second: Lola_arme_151
+  - first:
+      213: 3074528875905494929
+    second: Lola_arme_152
+  - first:
+      213: 6812579700007826586
+    second: Lola_arme_153
+  - first:
+      213: 4265261884340104608
+    second: Lola_arme_154
+  - first:
+      213: 2961782671475707766
+    second: Lola_arme_155
+  - first:
+      213: 6096064418289779967
+    second: Lola_arme_156
+  - first:
+      213: -8019725815247999375
+    second: Lola_arme_157
+  - first:
+      213: 8406258178689134223
+    second: Lola_arme_158
+  - first:
+      213: -1663287143372872747
+    second: Lola_arme_159
+  - first:
+      213: -3874869278850012316
+    second: Lola_arme_160
+  - first:
+      213: -3982229450469144843
+    second: Lola_arme_161
+  - first:
+      213: 5021211636538836341
+    second: Lola_arme_162
+  - first:
+      213: 2592129079186224362
+    second: Lola_arme_163
+  - first:
+      213: 5841796010938740728
+    second: Lola_arme_164
+  - first:
+      213: -8174213728244076072
+    second: Lola_arme_165
+  - first:
+      213: 8935064338958580706
+    second: Lola_arme_166
+  - first:
+      213: -573579593385673613
+    second: Lola_arme_167
+  - first:
+      213: 6909089170305251772
+    second: Lola_arme_168
+  - first:
+      213: 3704984488657298115
+    second: Lola_arme_169
+  - first:
+      213: -4462279904001905352
+    second: Lola_arme_170
+  - first:
+      213: -8554442314994628753
+    second: Lola_arme_171
+  - first:
+      213: -987878439942538560
+    second: Lola_arme_172
+  - first:
+      213: 2727763770092636667
+    second: Lola_arme_173
+  - first:
+      213: 1677669791402793202
+    second: Lola_arme_174
+  - first:
+      213: -3003977070215342405
+    second: Lola_arme_175
+  - first:
+      213: -2502488516837832656
+    second: Lola_arme_176
+  - first:
+      213: -1887503505124700076
+    second: Lola_arme_177
+  - first:
+      213: -1855202087822718769
+    second: Lola_arme_178
+  - first:
+      213: 7859668062060840236
+    second: Lola_arme_179
+  - first:
+      213: 7002460577603178850
+    second: Lola_arme_180
+  - first:
+      213: -6911828214755592318
+    second: Lola_arme_181
+  - first:
+      213: 1487948276658416140
+    second: Lola_arme_182
+  - first:
+      213: 6036248333945312187
+    second: Lola_arme_183
+  - first:
+      213: -5263524468498870205
+    second: Lola_arme_184
+  - first:
+      213: 7325205957954220638
+    second: Lola_arme_185
+  - first:
+      213: -4049403366514427265
+    second: Lola_arme_186
+  - first:
+      213: -8154218779319173110
+    second: Lola_arme_187
+  - first:
+      213: 3799868137137859195
+    second: Lola_arme_188
+  - first:
+      213: 2180886331482205786
+    second: Lola_arme_189
+  - first:
+      213: 7234776520886829914
+    second: Lola_arme_190
+  - first:
+      213: 2809363972352708891
+    second: Lola_arme_191
+  - first:
+      213: -1681619055400808621
+    second: Lola_arme_192
+  - first:
+      213: 4559366133456933879
+    second: Lola_arme_193
+  - first:
+      213: -5185807216791091659
+    second: Lola_arme_194
+  - first:
+      213: 8907331068203651994
+    second: Lola_arme_195
+  - first:
+      213: 6927538979882570536
+    second: Lola_arme_196
+  - first:
+      213: 7451904227409853569
+    second: Lola_arme_197
+  - first:
+      213: -1880275052703703362
+    second: Lola_arme_198
+  - first:
+      213: -8206225434362412690
+    second: Lola_arme_199
+  - first:
+      213: 7247225954813500388
+    second: Lola_arme_200
+  - first:
+      213: 8586355961837293652
+    second: Lola_arme_201
+  - first:
+      213: 6680470099177454385
+    second: Lola_arme_202
+  - first:
+      213: 2807432408175790668
+    second: Lola_arme_203
+  - first:
+      213: 1929436697016164102
+    second: Lola_arme_204
+  - first:
+      213: -8874216460950025373
+    second: Lola_arme_205
+  - first:
+      213: 5581011963849122348
+    second: Lola_arme_206
+  - first:
+      213: 7987858814839984568
+    second: Lola_arme_207
+  - first:
+      213: -1484453427127265544
+    second: Lola_arme_208
+  - first:
+      213: -7860416077754171467
+    second: Lola_arme_209
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lola_arme_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2048
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c1428dd70e09a30800000000000000
+      internalID: 4220119681947933783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2048
+        width: 25
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445608878af1cda90800000000000000
+      internalID: -7287915288555657916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2048
+        width: 25
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8344d918c3f8cfcb0800000000000000
+      internalID: -4828827210412637128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2048
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4460e100067a3320800000000000000
+      internalID: 2538471082380256334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2048
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce163e34a8f297310800000000000000
+      internalID: 1403205029793587692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2048
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b83592686b979e70800000000000000
+      internalID: 9121930442895079604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2048
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee2b57c476d2d3f0800000000000000
+      internalID: -877403180334633244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_7
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1984
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e870c79adf342a10800000000000000
+      internalID: 1883700752229103847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1984
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844b5efd32eb15550800000000000000
+      internalID: 6147904027626943560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1984
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f34bc6c9e3b0310800000000000000
+      internalID: 1372259353024020246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1984
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7665d772706384340800000000000000
+      internalID: 4848184403219535463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1984
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec139156235a9ab0800000000000000
+      internalID: -5000593012199056160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1984
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8462d3fbb6bcdebe0800000000000000
+      internalID: -1446276241685666232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1984
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22948769ecbf49e90800000000000000
+      internalID: -7019709054457460446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1920
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21367bcd00d9a1c90800000000000000
+      internalID: -7198268427369749742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1920
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b6c309909aef1f0800000000000000
+      internalID: -1009183407944733798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1920
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85394b16ed68410e0800000000000000
+      internalID: -2300065219999394984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_17
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1920
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6bee3d52afc8310800000000000000
+      internalID: 1408775823836493559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_18
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1920
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a5e55e5b1e6e900800000000000000
+      internalID: 713505762338298441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_19
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1920
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53492fc4780341810800000000000000
+      internalID: 1735065114114167861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1920
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40196a9b04758a020800000000000000
+      internalID: 2353226740805308676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1856
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b318175fd1c5f280800000000000000
+      internalID: -9010082314501745735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_22
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1856
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468c7e015d361fef0800000000000000
+      internalID: -76169951925778332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_23
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1856
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d975cf71238c0d0800000000000000
+      internalID: -3402414439879172721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_24
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1856
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fbbe09ac9d9e940800000000000000
+      internalID: 5326027498380312446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_25
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1856
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573af11c166efd4a0800000000000000
+      internalID: -6566276424156601483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_26
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1856
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45209976408ef3500800000000000000
+      internalID: 378275999338005076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_27
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1856
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fe9cdfc1c8bb6c0800000000000000
+      internalID: -4126550577410085083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1791
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e15cd3fdaed90f0800000000000000
+      internalID: -1108471688728338813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1791
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef33f4fb8545e740800000000000000
+      internalID: 5180623413771976686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_30
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1791
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117d46e60d065ff60800000000000000
+      internalID: 8067460755825678097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_31
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1791
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a40710c29451b70800000000000000
+      internalID: 8869075494527584815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_32
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1791
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4c7aea9eb8e73e0800000000000000
+      internalID: -2054050544260496188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_33
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1791
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d37dc0d2ad2ce800800000000000000
+      internalID: 642939024118215638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_34
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1791
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92eb6daacdd41c1b0800000000000000
+      internalID: -5638139648336806359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_35
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1791
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad527b2c645e3430800000000000000
+      internalID: 3764539162090429866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1728
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a11732a0bc397d10800000000000000
+      internalID: 2123795428615328160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1728
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f36f89d4d64c0010800000000000000
+      internalID: 1156377084324439032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1728
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8204e1dbebb794660800000000000000
+      internalID: 7370558324315406376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_39
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1728
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba398ea85c171ead0800000000000000
+      internalID: -2674731610428370005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1728
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979ffd24ab493a730800000000000000
+      internalID: 4009211620996675961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_41
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1728
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781a2f091acb222a0800000000000000
+      internalID: -6763636288249486969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_42
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1728
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41406db872ac9d400800000000000000
+      internalID: 349532717296518164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_43
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1728
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4932fb486abf090800000000000000
+      internalID: -7999617224020880154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1664
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfb002d3a31ccb60800000000000000
+      internalID: 7767605051631124434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1664
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd235b149d79389e0800000000000000
+      internalID: -1620284481557155107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_46
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1665
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1fb61a91d2c1e50800000000000000
+      internalID: 6781344727018762748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1665
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ad17b3a2211a670800000000000000
+      internalID: 8548133540321155646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_48
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1665
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636df59d604395220800000000000000
+      internalID: 2475066674238182966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_49
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1665
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9fd55faa58e5d30800000000000000
+      internalID: 4422118853431917047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_50
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1665
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d782d466de829f4b0800000000000000
+      internalID: -5406244877592876931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_51
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1665
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc0c2b7007652990800000000000000
+      internalID: -7411404360004137800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_52
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1600
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f5047a750b0ca40800000000000000
+      internalID: 5386499044849770260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_53
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1600
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c64d21aede69860800000000000000
+      internalID: 7536472616045145186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_54
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1600
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16768b08eee52320800000000000000
+      internalID: 2532693045858956831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_55
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1600
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4a164e22058a420800000000000000
+      internalID: 2641449292243510443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_56
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1600
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02c14bd66a25c7c0800000000000000
+      internalID: -4051785668496342515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_57
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1600
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad68f6c09fdcdb9c0800000000000000
+      internalID: -3909742431948536102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_58
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1600
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9739d458065cbb0800000000000000
+      internalID: -4916417292556600890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_59
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1600
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f49903740480d50800000000000000
+      internalID: 6703678719843192661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1535
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdf0f27aecadd290800000000000000
+      internalID: -7863939251368297028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_61
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1535
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee266e069dcb15600800000000000000
+      internalID: 455352679160767214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_62
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1536
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d9983a45d83dc80800000000000000
+      internalID: -8299134293653217922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_63
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1535
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdda623f9e5e172c0800000000000000
+      internalID: -4435511365013688865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_64
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1536
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02324fd86d066b80800000000000000
+      internalID: -8402013310739664370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_65
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1535
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41ed9a6adc5a9f30800000000000000
+      internalID: 4583077663964258638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_66
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1536
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df488d99e47594e10800000000000000
+      internalID: 2182371489537885437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_67
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1535
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0d1fe2a307f2cb0800000000000000
+      internalID: -4886563675475685149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_68
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1536
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2466f97d3857e00800000000000000
+      internalID: 1041883850921624267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_69
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1471
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ea409a2792590b0800000000000000
+      internalID: -5722622179065680337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_70
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1472
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f78b9c7b7050ba0800000000000000
+      internalID: -6123479632395600056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_71
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1474
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0aef2c4430dbd90800000000000000
+      internalID: -7080499445292425049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_72
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1471
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73bb0a3b95d239a0800000000000000
+      internalID: -6254702069793705090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_73
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1471
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a140d523474255ad0800000000000000
+      internalID: -2714223118941092838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_74
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1471
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcbd50d4ed3fca40800000000000000
+      internalID: 5390595331943415024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_75
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1471
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a88e261fa4a6e120800000000000000
+      internalID: 2442820919793453219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_76
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1471
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76a56cb6dfa5ce40800000000000000
+      internalID: 5676136242189018746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_77
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1472
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccf71bc50e133b30800000000000000
+      internalID: 4265786282281008333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1407
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e43097728e97cad0800000000000000
+      internalID: -2682000769886964503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1406
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46ba688691447700800000000000000
+      internalID: 537126370353526349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_80
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1407
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54090ab7ee8bc920800000000000000
+      internalID: 3011657901737051227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_81
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1407
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ce0d928fac672f0800000000000000
+      internalID: -975369102076875773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_82
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1407
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656c21666aacd79c0800000000000000
+      internalID: -3927760483971316138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_83
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1407
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cc4abee8c489460800000000000000
+      internalID: 7248627776975326302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_84
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1407
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86446d8697e3964e0800000000000000
+      internalID: -1987989069336525720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_85
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1407
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b8a0974e24bfea0800000000000000
+      internalID: -5837998942905005185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_86
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1407
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d53606625931200800000000000000
+      internalID: 149627204691778923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_87
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1343
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ea9f8a159f46d30800000000000000
+      internalID: 4423934863107272277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_88
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1344
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9c0fd66bae039c0800000000000000
+      internalID: -3949398803954480706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_89
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1346
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a9fadc00d1ebf00800000000000000
+      internalID: 1134376045431986783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_90
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1343
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a313a1c3c8094650800000000000000
+      internalID: 6217510397422015397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_91
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1343
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7dde40f6d9afa10800000000000000
+      internalID: 1944039289313417192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_92
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1343
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251fcb7fd24b92690800000000000000
+      internalID: -7626366384452341422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_93
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1343
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cfe147dc96fd4f0800000000000000
+      internalID: -801805877511259062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_94
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1343
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d8d81b56fc369c0800000000000000
+      internalID: -3935073613714191083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_95
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1344
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ff8262c2725f870800000000000000
+      internalID: 8715915724417728374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_96
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1280
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b8c51e6fe6b5f60800000000000000
+      internalID: 8024129167712619349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_97
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1279
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d701b951948a0fa0800000000000000
+      internalID: -5833704607495157801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_98
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1279
+        width: 25
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27de749990dd2b2e0800000000000000
+      internalID: -2111382241987269262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_99
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1279
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a746852e7b892030800000000000000
+      internalID: 3470458361777375139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_100
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1279
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ccb141788c21920800000000000000
+      internalID: 2959648387619343486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_101
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1279
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9dfd71eb0541570800000000000000
+      internalID: 8436456779346336166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_102
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1216
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd237472c52cf8540800000000000000
+      internalID: 5012438611338408668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_103
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1216
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46fe4f117fc523f0800000000000000
+      internalID: -926106063591246260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_104
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1216
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d124cd909fc4890800000000000000
+      internalID: -7472323860969153228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_105
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1216
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421b0edfaaf73d660800000000000000
+      internalID: 7409406184335126820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_106
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1216
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bc945fbf4683ad0800000000000000
+      internalID: -2722314941430641827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_107
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1216
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc47d45c62453fe0800000000000000
+      internalID: -1209987891831812922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_108
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1152
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309990cc7afb693c0800000000000000
+      internalID: -4353081262403380989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_109
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1152
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fa43d076d0e6cb0800000000000000
+      internalID: -4868939410886578422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_110
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1152
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595f3700e54603b10800000000000000
+      internalID: 1959176192803468693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_111
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1152
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d1c87c9247649f0800000000000000
+      internalID: -484572187105419880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_112
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1152
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0577fb9447bc4b0800000000000000
+      internalID: -5419109866516557634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_113
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1152
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405febd80a755e1c0800000000000000
+      internalID: -4475074307638233852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_114
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1088
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488088e1e267aeb70800000000000000
+      internalID: 8929079151668234372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_115
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1088
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36be5a9977322050800000000000000
+      internalID: 5774238667662865981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_116
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1088
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb782947fd453210800000000000000
+      internalID: 1312040590928018399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_117
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1088
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7139bfd137749bf0800000000000000
+      internalID: -318498617545903750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_118
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1088
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15b6235a84bcb9c0800000000000000
+      internalID: -3910051870270900962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_119
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1088
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79eb643a107f2ab70800000000000000
+      internalID: 8908954599298612887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_120
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1024
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd77c4797c5c50c70800000000000000
+      internalID: 8936766496614152155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_121
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1024
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c7e6911cc6017e0800000000000000
+      internalID: -1796816674709668716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_122
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1023
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846127a65cd5bcac0800000000000000
+      internalID: -3833867555300043192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_123
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1023
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0eb88787057c4bf0800000000000000
+      internalID: -338767196760523253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_124
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1023
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2faadf5a9577c38e0800000000000000
+      internalID: -1712362531386971406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_125
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1023
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca4fefb606668440800000000000000
+      internalID: 4937746220634294985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_126
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1023
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cec68fad98d2390800000000000000
+      internalID: -7841459802618401763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_127
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1023
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c22fa064d5a66750800000000000000
+      internalID: 6297903460497957571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_128
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1023
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063abac5eb64a2030800000000000000
+      internalID: 3470664246254871392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_129
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1023
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d39ce78de83942b0800000000000000
+      internalID: -5599882068819668010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_130
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1023
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd1173faf64f0210800000000000000
+      internalID: 1301336860973407685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_131
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1023
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714ca8704f5a71360800000000000000
+      internalID: 7140358201736348695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_132
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1023
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9805e6d42162926d0800000000000000
+      internalID: -3014836615497494391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_133
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 960
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1b1e777b63e22c0800000000000000
+      internalID: -4454562819804646960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_134
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 960
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0a8814cadd59680800000000000000
+      internalID: -8748842969193733974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_135
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 960
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c099a0f96215c090800000000000000
+      internalID: -8014979715617419065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_136
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 960
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e91f0e1726823e60800000000000000
+      internalID: 7940556595573758439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_137
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 960
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e484b81188116aa70800000000000000
+      internalID: 8837770594868742222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_138
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 960
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0a84bc293f9c750800000000000000
+      internalID: 6325854963419881647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_139
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 960
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634392cd50c0347e0800000000000000
+      internalID: -1782567808200526794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_140
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 960
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295d1830a78015390800000000000000
+      internalID: -7831468956882709102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_141
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 960
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb54e4a8db7f01120800000000000000
+      internalID: 2382676596320257468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_142
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 960
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824816659a42d1210800000000000000
+      internalID: 1305239776724616232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_143
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 960
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cf9fe3d28d24440800000000000000
+      internalID: 4918731431883701360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_144
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 960
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50ebe5a772f7fb50800000000000000
+      internalID: 6627031972397703259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_145
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 960
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b881ef2d12f19bab0800000000000000
+      internalID: -4991924481829234549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_146
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 896
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff27ad0ee549aba0800000000000000
+      internalID: -6077249333426180100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_147
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 895
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf31a4bc631cc7f0800000000000000
+      internalID: -591076093484515385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_148
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 897
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bca5c52fc4183a0800000000000000
+      internalID: -6664961369716372663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_149
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 896
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8cec3dd2b69bc10800000000000000
+      internalID: 2069803348324698276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_150
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 896
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11025e7a734549e0800000000000000
+      internalID: -1637828696094932706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_151
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 896
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9839d6c6a6b18bff0800000000000000
+      internalID: -20236054423563383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_152
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 896
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f270c19bbeaaa20800000000000000
+      internalID: 3074528875905494929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_153
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 896
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94f00f74252b8e50800000000000000
+      internalID: 6812579700007826586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_154
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 896
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0adea12e511413b30800000000000000
+      internalID: 4265261884340104608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_155
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 896
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f8733c5ad5a1920800000000000000
+      internalID: 2961782671475707766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_156
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 896
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff48f044a42999450800000000000000
+      internalID: 6096064418289779967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_157
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 896
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17eec128cd534b090800000000000000
+      internalID: -8019725815247999375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_158
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 896
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8eecf6764709a470800000000000000
+      internalID: 8406258178689134223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_159
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 832
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d329c3d721dae8e0800000000000000
+      internalID: -1663287143372872747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_160
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 832
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b221bbbe2b93ac0800000000000000
+      internalID: -3874869278850012316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_161
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 832
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f600bed9674cb8c0800000000000000
+      internalID: -3982229450469144843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_162
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 832
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57584f1416deea540800000000000000
+      internalID: 5021211636538836341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_163
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 832
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4fad0f9a719f320800000000000000
+      internalID: 2592129079186224362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_164
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 832
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff2c42558a321150800000000000000
+      internalID: 5841796010938740728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_165
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 832
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1f3e94ceb5f8e80800000000000000
+      internalID: -8174213728244076072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_166
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 832
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebf2e02da9bffb70800000000000000
+      internalID: 8935064338958580706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_167
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 832
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c75d5166c3a08f0800000000000000
+      internalID: -573579593385673613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_168
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 832
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9fa859ef302ef50800000000000000
+      internalID: 6909089170305251772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_169
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 832
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c220c833cfba6330800000000000000
+      internalID: 3704984488657298115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_170
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 832
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d2a99c11cc212c0800000000000000
+      internalID: -4462279904001905352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_171
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 832
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67cc23b904884980800000000000000
+      internalID: -8554442314994628753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_172
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 767
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca35f9fac95a42f0800000000000000
+      internalID: -987878439942538560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_173
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 767
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf94d8352b6fad520800000000000000
+      internalID: 2727763770092636667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_174
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 767
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f897fe59c7484710800000000000000
+      internalID: 1677669791402793202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_175
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 769
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6556835cabf46d0800000000000000
+      internalID: -3003977070215342405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_176
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 768
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0380363e3ff554dd0800000000000000
+      internalID: -2502488516837832656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_177
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 767
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450dcb0009d3ec5e0800000000000000
+      internalID: -1887503505124700076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_178
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 639
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc883c8c78ff046e0800000000000000
+      internalID: -1855202087822718769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_179
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 637
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c258e9bc576231d60800000000000000
+      internalID: 7859668062060840236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_180
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 637
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261d6b17bccbd2160800000000000000
+      internalID: 7002460577603178850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_181
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 639
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28778feebd04410a0800000000000000
+      internalID: -6911828214755592318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_182
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 639
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a216af21146a410800000000000000
+      internalID: 1487948276658416140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_183
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 639
+        width: 27
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb39ad8d0ef05c350800000000000000
+      internalID: 6036248333945312187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_184
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 639
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3405c8c126434f6b0800000000000000
+      internalID: -5263524468498870205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_185
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 639
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52bf66120c58a560800000000000000
+      internalID: 7325205957954220638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_186
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 447
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7af2a2c711adc7c0800000000000000
+      internalID: -4049403366514427265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_187
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a008cdd193566de80800000000000000
+      internalID: -8154218779319173110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_188
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 448
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a6d6b20f7dbb430800000000000000
+      internalID: 3799868137137859195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_189
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 448
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e608b4090144e10800000000000000
+      internalID: 2180886331482205786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_190
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 448
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53cbcc0ae6176460800000000000000
+      internalID: 7234776520886829914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_191
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 448
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b111dd0f5addcf620800000000000000
+      internalID: 2809363972352708891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_192
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 448
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f8e43f060b9a8e0800000000000000
+      internalID: -1681619055400808621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_193
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 448
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f395a1875f164f30800000000000000
+      internalID: 4559366133456933879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_194
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 255
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5368289dfcf4808b0800000000000000
+      internalID: -5185807216791091659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_195
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 255
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a935419d9623d9b70800000000000000
+      internalID: 8907331068203651994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_196
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 252
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823929f9fff832060800000000000000
+      internalID: 6927538979882570536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_197
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 244
+        width: 35
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cfef6b96b7a6760800000000000000
+      internalID: 7451904227409853569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_198
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 242
+        width: 27
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe119b3dcbe7e5e0800000000000000
+      internalID: -1880275052703703362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_199
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 236
+        width: 26
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e618d062271ad1e80800000000000000
+      internalID: -8206225434362412690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_200
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 242
+        width: 27
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb56a3cb91539460800000000000000
+      internalID: 7247225954813500388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_201
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 244
+        width: 34
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4509e5c314dd82770800000000000000
+      internalID: 8586355961837293652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_202
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 64
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b371a192cc5bc50800000000000000
+      internalID: 6680470099177454385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_203
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 64
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4acc3c96e006f620800000000000000
+      internalID: 2807432408175790668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_204
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 64
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f504e047cb6ca10800000000000000
+      internalID: 1929436697016164102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_205
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 64
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b4629752378d480800000000000000
+      internalID: -8874216460950025373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_206
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 64
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22ae68cfccb37d40800000000000000
+      internalID: 5581011963849122348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_207
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 64
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1928645439ade60800000000000000
+      internalID: 7987858814839984568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_208
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 64
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6d7761979266be0800000000000000
+      internalID: -1484453427127265544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lola_arme_209
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 64
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf71ba39313ae290800000000000000
+      internalID: -7860416077754171467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

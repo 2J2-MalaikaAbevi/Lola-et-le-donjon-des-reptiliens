@@ -1,0 +1,4975 @@
+fileFormatVersion: 2
+guid: 3bb6568a50464aa459201039e99e11ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3393887615086975115
+    second: Reptilien1_0
+  - first:
+      213: 5229439449092049384
+    second: Reptilien1_1
+  - first:
+      213: -5775962041825463293
+    second: Reptilien1_2
+  - first:
+      213: -5339606263377836278
+    second: Reptilien1_3
+  - first:
+      213: 6827583412215300445
+    second: Reptilien1_4
+  - first:
+      213: 9128624516803865555
+    second: Reptilien1_5
+  - first:
+      213: -7172981975437180191
+    second: Reptilien1_6
+  - first:
+      213: -4523812962533727789
+    second: Reptilien1_7
+  - first:
+      213: -9212096673508182384
+    second: Reptilien1_8
+  - first:
+      213: 8578663600824813604
+    second: Reptilien1_9
+  - first:
+      213: 3640390171563215308
+    second: Reptilien1_10
+  - first:
+      213: -8527762426741870483
+    second: Reptilien1_11
+  - first:
+      213: 2274526320491973893
+    second: Reptilien1_12
+  - first:
+      213: -1401440638694180676
+    second: Reptilien1_13
+  - first:
+      213: 1061185339967007514
+    second: Reptilien1_14
+  - first:
+      213: -7845264503041157222
+    second: Reptilien1_15
+  - first:
+      213: 4499180355929950096
+    second: Reptilien1_16
+  - first:
+      213: -9099498923651357379
+    second: Reptilien1_17
+  - first:
+      213: 1204592320893976503
+    second: Reptilien1_18
+  - first:
+      213: 3839151421954006702
+    second: Reptilien1_19
+  - first:
+      213: 7796783296015083037
+    second: Reptilien1_20
+  - first:
+      213: 6688846428536004629
+    second: Reptilien1_21
+  - first:
+      213: 1207009193732104761
+    second: Reptilien1_22
+  - first:
+      213: -7734659862008989929
+    second: Reptilien1_23
+  - first:
+      213: -6341528463297651444
+    second: Reptilien1_24
+  - first:
+      213: 1950142630270785813
+    second: Reptilien1_25
+  - first:
+      213: 7744253830294291014
+    second: Reptilien1_26
+  - first:
+      213: 7540700778468987665
+    second: Reptilien1_27
+  - first:
+      213: 2983957903892117112
+    second: Reptilien1_28
+  - first:
+      213: 929910813180609766
+    second: Reptilien1_29
+  - first:
+      213: 6137991694523359615
+    second: Reptilien1_30
+  - first:
+      213: 8998349539174072134
+    second: Reptilien1_31
+  - first:
+      213: -2172434912177868265
+    second: Reptilien1_32
+  - first:
+      213: 7219213344026461279
+    second: Reptilien1_33
+  - first:
+      213: -7700176229381586378
+    second: Reptilien1_34
+  - first:
+      213: 6508020319252884603
+    second: Reptilien1_35
+  - first:
+      213: -6665618702110143056
+    second: Reptilien1_36
+  - first:
+      213: -8685395701218279188
+    second: Reptilien1_37
+  - first:
+      213: 9012081238121898542
+    second: Reptilien1_38
+  - first:
+      213: 4628308066968411411
+    second: Reptilien1_39
+  - first:
+      213: -4323705021233534787
+    second: Reptilien1_40
+  - first:
+      213: -1265909581748739318
+    second: Reptilien1_41
+  - first:
+      213: -1536039399566670771
+    second: Reptilien1_42
+  - first:
+      213: 1058763868966849655
+    second: Reptilien1_43
+  - first:
+      213: 2096841571135295063
+    second: Reptilien1_44
+  - first:
+      213: -2173876075672250071
+    second: Reptilien1_45
+  - first:
+      213: -1953830492454623870
+    second: Reptilien1_46
+  - first:
+      213: 2453781753483953243
+    second: Reptilien1_47
+  - first:
+      213: 8148373261036410721
+    second: Reptilien1_48
+  - first:
+      213: 1113125036407500070
+    second: Reptilien1_49
+  - first:
+      213: -2520569111657828702
+    second: Reptilien1_50
+  - first:
+      213: -7587672672286382415
+    second: Reptilien1_51
+  - first:
+      213: -1178160436695388537
+    second: Reptilien1_52
+  - first:
+      213: 3306293607323376008
+    second: Reptilien1_53
+  - first:
+      213: -7179150278844910828
+    second: Reptilien1_54
+  - first:
+      213: 8249503339421468653
+    second: Reptilien1_55
+  - first:
+      213: 5107406811376638280
+    second: Reptilien1_56
+  - first:
+      213: -3211250586701938810
+    second: Reptilien1_57
+  - first:
+      213: -6300120435729368358
+    second: Reptilien1_58
+  - first:
+      213: 7476149450947973959
+    second: Reptilien1_59
+  - first:
+      213: 8518502667404905929
+    second: Reptilien1_60
+  - first:
+      213: -288166085909699431
+    second: Reptilien1_61
+  - first:
+      213: -9003282383920200777
+    second: Reptilien1_62
+  - first:
+      213: -4961208342619216453
+    second: Reptilien1_63
+  - first:
+      213: 7441285849901233018
+    second: Reptilien1_64
+  - first:
+      213: 4654349766099758043
+    second: Reptilien1_65
+  - first:
+      213: -2364746693109545691
+    second: Reptilien1_66
+  - first:
+      213: 12654218386529565
+    second: Reptilien1_67
+  - first:
+      213: -7479424877488615320
+    second: Reptilien1_68
+  - first:
+      213: 1415071028967943766
+    second: Reptilien1_69
+  - first:
+      213: 2678494271289173200
+    second: Reptilien1_70
+  - first:
+      213: 741436744965506687
+    second: Reptilien1_71
+  - first:
+      213: -1139970497911095952
+    second: Reptilien1_72
+  - first:
+      213: 8518106266814560123
+    second: Reptilien1_73
+  - first:
+      213: -2189774723880215300
+    second: Reptilien1_74
+  - first:
+      213: 3474694473307714146
+    second: Reptilien1_75
+  - first:
+      213: 2106404433880783346
+    second: Reptilien1_76
+  - first:
+      213: 1798596998845167527
+    second: Reptilien1_77
+  - first:
+      213: 7338803324273800736
+    second: Reptilien1_78
+  - first:
+      213: -3893918621776652329
+    second: Reptilien1_79
+  - first:
+      213: -2364849410953277627
+    second: Reptilien1_80
+  - first:
+      213: 4262691468152634743
+    second: Reptilien1_81
+  - first:
+      213: 5758388913099839854
+    second: Reptilien1_82
+  - first:
+      213: -1950328597490374574
+    second: Reptilien1_83
+  - first:
+      213: -2938196981129724346
+    second: Reptilien1_84
+  - first:
+      213: 6128116505860651616
+    second: Reptilien1_85
+  - first:
+      213: -6369190012244088251
+    second: Reptilien1_86
+  - first:
+      213: -6952331397911850497
+    second: Reptilien1_87
+  - first:
+      213: 2028042911361375814
+    second: Reptilien1_88
+  - first:
+      213: 8152177107434267105
+    second: Reptilien1_89
+  - first:
+      213: 6321635025190939261
+    second: Reptilien1_90
+  - first:
+      213: 1069114436955223721
+    second: Reptilien1_91
+  - first:
+      213: 8235879542064032767
+    second: Reptilien1_92
+  - first:
+      213: -5716091668194918545
+    second: Reptilien1_93
+  - first:
+      213: 4225162389938114976
+    second: Reptilien1_94
+  - first:
+      213: -3473795542484097596
+    second: Reptilien1_95
+  - first:
+      213: -2445552568830487276
+    second: Reptilien1_96
+  - first:
+      213: 627635060954833419
+    second: Reptilien1_97
+  - first:
+      213: 4032401791799875824
+    second: Reptilien1_98
+  - first:
+      213: -7154738386047591105
+    second: Reptilien1_99
+  - first:
+      213: 3248364745162679172
+    second: Reptilien1_100
+  - first:
+      213: 8850406449930511474
+    second: Reptilien1_101
+  - first:
+      213: -207481182270762601
+    second: Reptilien1_102
+  - first:
+      213: -1115937095764784083
+    second: Reptilien1_103
+  - first:
+      213: 3350150228092825220
+    second: Reptilien1_104
+  - first:
+      213: 8108058294388281296
+    second: Reptilien1_105
+  - first:
+      213: 88638958923350465
+    second: Reptilien1_106
+  - first:
+      213: -3703553792517048596
+    second: Reptilien1_107
+  - first:
+      213: -4060255553124140524
+    second: Reptilien1_108
+  - first:
+      213: 2817414297393368616
+    second: Reptilien1_109
+  - first:
+      213: -4373147570265406948
+    second: Reptilien1_110
+  - first:
+      213: 6567541891667249536
+    second: Reptilien1_111
+  - first:
+      213: 3537013976161054732
+    second: Reptilien1_112
+  - first:
+      213: 4743613421135349908
+    second: Reptilien1_113
+  - first:
+      213: 3935898536894054159
+    second: Reptilien1_114
+  - first:
+      213: 5537218187304778253
+    second: Reptilien1_115
+  - first:
+      213: 6340722479801692806
+    second: Reptilien1_116
+  - first:
+      213: -8449185471684774429
+    second: Reptilien1_117
+  - first:
+      213: 1166234203497509740
+    second: Reptilien1_118
+  - first:
+      213: -8761780796471824627
+    second: Reptilien1_119
+  - first:
+      213: 2123309897933170271
+    second: Reptilien1_120
+  - first:
+      213: -372455586426762783
+    second: Reptilien1_121
+  - first:
+      213: 7186160186633884248
+    second: Reptilien1_122
+  - first:
+      213: 543397563040267880
+    second: Reptilien1_123
+  - first:
+      213: -1638773504185511911
+    second: Reptilien1_124
+  - first:
+      213: 4853482456438158943
+    second: Reptilien1_125
+  - first:
+      213: 6856108745999924937
+    second: Reptilien1_126
+  - first:
+      213: -3274343342330213004
+    second: Reptilien1_127
+  - first:
+      213: -347391826627219113
+    second: Reptilien1_128
+  - first:
+      213: 1450453863388657224
+    second: Reptilien1_129
+  - first:
+      213: 3942403824903515025
+    second: Reptilien1_130
+  - first:
+      213: -7783470251217973507
+    second: Reptilien1_131
+  - first:
+      213: -8283957035913532875
+    second: Reptilien1_132
+  - first:
+      213: 5770453546471577814
+    second: Reptilien1_133
+  - first:
+      213: -2520244783121662919
+    second: Reptilien1_134
+  - first:
+      213: -8635775734575999300
+    second: Reptilien1_135
+  - first:
+      213: 324672093728003892
+    second: Reptilien1_136
+  - first:
+      213: 304955592541814621
+    second: Reptilien1_137
+  - first:
+      213: -3175651318650618959
+    second: Reptilien1_138
+  - first:
+      213: 250067560746699609
+    second: Reptilien1_139
+  - first:
+      213: 5816047413058039300
+    second: Reptilien1_140
+  - first:
+      213: -988513318240741341
+    second: Reptilien1_141
+  - first:
+      213: 8999047303178111950
+    second: Reptilien1_142
+  - first:
+      213: 1296445289679836435
+    second: Reptilien1_143
+  - first:
+      213: 8242201347761134382
+    second: Reptilien1_144
+  - first:
+      213: -3402266886166628166
+    second: Reptilien1_145
+  - first:
+      213: -7300422387941836751
+    second: Reptilien1_146
+  - first:
+      213: -8978789990071530557
+    second: Reptilien1_147
+  - first:
+      213: 2777179136479601293
+    second: Reptilien1_148
+  - first:
+      213: 3164842601202997384
+    second: Reptilien1_149
+  - first:
+      213: -5304756067101936298
+    second: Reptilien1_150
+  - first:
+      213: 736445466493839907
+    second: Reptilien1_151
+  - first:
+      213: -6979152061951938919
+    second: Reptilien1_152
+  - first:
+      213: -6649874749566731537
+    second: Reptilien1_153
+  - first:
+      213: 5491772818263622931
+    second: Reptilien1_154
+  - first:
+      213: 3476140769607692207
+    second: Reptilien1_155
+  - first:
+      213: 8073258000083033229
+    second: Reptilien1_156
+  - first:
+      213: -3895505496641124739
+    second: Reptilien1_157
+  - first:
+      213: 6565507880818076029
+    second: Reptilien1_158
+  - first:
+      213: 7503549724253418722
+    second: Reptilien1_159
+  - first:
+      213: -2267052494931188566
+    second: Reptilien1_160
+  - first:
+      213: -1646955458846840799
+    second: Reptilien1_161
+  - first:
+      213: 8976167658289252091
+    second: Reptilien1_162
+  - first:
+      213: -2809613380591163247
+    second: Reptilien1_163
+  - first:
+      213: -97019122232721171
+    second: Reptilien1_164
+  - first:
+      213: -7655081854606541874
+    second: Reptilien1_165
+  - first:
+      213: 2337582234581308738
+    second: Reptilien1_166
+  - first:
+      213: -8331676416472416292
+    second: Reptilien1_167
+  - first:
+      213: -3292786698059993320
+    second: Reptilien1_168
+  - first:
+      213: -7206090251038842650
+    second: Reptilien1_169
+  - first:
+      213: 229728871628193163
+    second: Reptilien1_170
+  - first:
+      213: -4050733472313754344
+    second: Reptilien1_171
+  - first:
+      213: 6899617637784183063
+    second: Reptilien1_172
+  - first:
+      213: 6326012455423026479
+    second: Reptilien1_173
+  - first:
+      213: -4442646413640799205
+    second: Reptilien1_174
+  - first:
+      213: 6691295960258118665
+    second: Reptilien1_175
+  - first:
+      213: 1342476969224469212
+    second: Reptilien1_176
+  - first:
+      213: -1391121851496542189
+    second: Reptilien1_177
+  - first:
+      213: -8569199500726134839
+    second: Reptilien1_178
+  - first:
+      213: -6297417929474632937
+    second: Reptilien1_179
+  - first:
+      213: -2209649050929661383
+    second: Reptilien1_180
+  - first:
+      213: 7444139322491248547
+    second: Reptilien1_181
+  - first:
+      213: -6875712473104383907
+    second: Reptilien1_182
+  - first:
+      213: 6795556726064019496
+    second: Reptilien1_183
+  - first:
+      213: 3749259969944302310
+    second: Reptilien1_184
+  - first:
+      213: 5279651803891574605
+    second: Reptilien1_185
+  - first:
+      213: -6004634474294899734
+    second: Reptilien1_186
+  - first:
+      213: 601183848437357996
+    second: Reptilien1_187
+  - first:
+      213: -5888680859898491751
+    second: Reptilien1_188
+  - first:
+      213: 7854165200508366323
+    second: Reptilien1_189
+  - first:
+      213: 3553747324850925126
+    second: Reptilien1_190
+  - first:
+      213: 8406175486361384757
+    second: Reptilien1_191
+  - first:
+      213: -1579203975301337225
+    second: Reptilien1_192
+  - first:
+      213: 2875112925653741731
+    second: Reptilien1_193
+  - first:
+      213: -5298173923847465191
+    second: Reptilien1_194
+  - first:
+      213: 7835537389469711194
+    second: Reptilien1_195
+  - first:
+      213: -5690664410572624811
+    second: Reptilien1_196
+  - first:
+      213: 683209427048195171
+    second: Reptilien1_197
+  - first:
+      213: -8993069954148260431
+    second: Reptilien1_198
+  - first:
+      213: -6300868767865510699
+    second: Reptilien1_199
+  - first:
+      213: -4613527409339000583
+    second: Reptilien1_200
+  - first:
+      213: 5891504408206801592
+    second: Reptilien1_201
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Reptilien1_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1793
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b885bd8edc2891f20800000000000000
+      internalID: 3393887615086975115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1793
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9cb81e873b29840800000000000000
+      internalID: 5229439449092049384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1793
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3047ad41029a7dfa0800000000000000
+      internalID: -5775962041825463293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1793
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07c9e6d468e5e5b0800000000000000
+      internalID: -5339606263377836278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1793
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51417770f270ce50800000000000000
+      internalID: 6827583412215300445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1793
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db240ce1a36fae70800000000000000
+      internalID: 9128624516803865555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1793
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e289cdb5e2747c90800000000000000
+      internalID: -7172981975437180191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1729
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1aed924103831c0800000000000000
+      internalID: -4523812962533727789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1729
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096bcfa12ee082080800000000000000
+      internalID: -9212096673508182384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1729
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4288cbed7198d0770800000000000000
+      internalID: 8578663600824813604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_10
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1729
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc949dbc293458230800000000000000
+      internalID: 3640390171563215308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1729
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60b021414d47a980800000000000000
+      internalID: -8527762426741870483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1729
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d433533adb09f10800000000000000
+      internalID: 2274526320491973893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_13
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1729
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb836dc0a251d8ce0800000000000000
+      internalID: -1401440638694180676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1665
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1be59db1761abe00800000000000000
+      internalID: 1061185339967007514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1665
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97104f1085002390800000000000000
+      internalID: -7845264503041157222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1665
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097ce9f22bc407e30800000000000000
+      internalID: 4499180355929950096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1665
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3526bda0f518b180800000000000000
+      internalID: -9099498923651357379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1665
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf7c0a655297b010800000000000000
+      internalID: 1204592320893976503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1665
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae1188a0e7674530800000000000000
+      internalID: 3839151421954006702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_20
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1665
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16adad391db33c60800000000000000
+      internalID: 7796783296015083037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1601
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5106702436e83dc50800000000000000
+      internalID: 6688846428536004629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1601
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9326809777820c010800000000000000
+      internalID: 1207009193732104761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_23
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1601
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7177b72e5d7f8a490800000000000000
+      internalID: -7734659862008989929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1601
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d5d14267d5ef7a0800000000000000
+      internalID: -6341528463297651444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1601
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519d2a2d36c401b10800000000000000
+      internalID: 1950142630270785813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1601
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642462de3dd197b60800000000000000
+      internalID: 7744253830294291014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_27
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1601
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113d72ad763f5a860800000000000000
+      internalID: 7540700778468987665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1537
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876753667e5296920800000000000000
+      internalID: 2983957903892117112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_29
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1535
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4cc6c25f4b7ec00800000000000000
+      internalID: 929910813180609766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_30
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1535
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71ec5afce68e2550800000000000000
+      internalID: 6137991694523359615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_31
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1535
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f35470b3f80ec70800000000000000
+      internalID: 8998349539174072134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_32
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1535
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7123bf915f5f9d1e0800000000000000
+      internalID: -2172434912177868265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_33
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1535
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f540570994ccf2460800000000000000
+      internalID: 7219213344026461279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_34
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1535
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632cdc3448a732590800000000000000
+      internalID: -7700176229381586378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_35
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1535
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ca718dff1215a50800000000000000
+      internalID: 6508020319252884603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1473
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd468c3b17fe73a0800000000000000
+      internalID: -6665618702110143056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1473
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce00e2f70a6477780800000000000000
+      internalID: -8685395701218279188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1473
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22e7355328511d70800000000000000
+      internalID: 9012081238121898542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_39
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1473
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d1ab24aad0b3040800000000000000
+      internalID: 4628308066968411411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_40
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1473
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db86dcfe03d1ff3c0800000000000000
+      internalID: -4323705021233534787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_41
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1473
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a036a1641f59e6ee0800000000000000
+      internalID: -1265909581748739318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_42
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1473
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4403dbed44eeaae0800000000000000
+      internalID: -1536039399566670771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_43
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1473
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c89c6112c71be00800000000000000
+      internalID: 1058763868966849655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1409
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e8ac5ac4a791d10800000000000000
+      internalID: 2096841571135295063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1410
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929d5d31a37d4d1e0800000000000000
+      internalID: -2173876075672250071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_46
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1410
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2856ae9d48992e4e0800000000000000
+      internalID: -1953830492454623870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1410
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b540fbc01859d0220800000000000000
+      internalID: 2453781753483953243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_48
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1410
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167dd591f46d41170800000000000000
+      internalID: 8148373261036410721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_49
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1410
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62da9a1b25d927f00800000000000000
+      internalID: 1113125036407500070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_50
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1410
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae20db5fb3250dd0800000000000000
+      internalID: -2520569111657828702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_51
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1410
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b66e60e7eb23b690800000000000000
+      internalID: -7587672672286382415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_52
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1345
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e2a52335556afe0800000000000000
+      internalID: -1178160436695388537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_53
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1345
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88997a3b48052ed20800000000000000
+      internalID: 3306293607323376008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1345
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4137d40bbd88e5c90800000000000000
+      internalID: -7179150278844910828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_55
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1345
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de78d97549f1c7270800000000000000
+      internalID: 8249503339421468653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_56
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1345
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849d38b4f6721e640800000000000000
+      internalID: 5107406811376638280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_57
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1345
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fbdd6fa985f63d0800000000000000
+      internalID: -3211250586701938810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_58
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1345
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adafb2ad7d97198a0800000000000000
+      internalID: -6300120435729368358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_59
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1345
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7435c77b05e90c760800000000000000
+      internalID: 7476149450947973959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1282
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd03e40b0dc73670800000000000000
+      internalID: 8518502667404905929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1282
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994a90db87a300cf0800000000000000
+      internalID: -288166085909699431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1281
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b387ed8f5aed0380800000000000000
+      internalID: -9003282383920200777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_63
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1280
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb52a794c4f362bb0800000000000000
+      internalID: -4961208342619216453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_64
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1281
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73f08b0e02c44760800000000000000
+      internalID: 7441285849901233018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_65
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1282
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb6cc4d372979040800000000000000
+      internalID: 4654349766099758043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_66
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1281
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5250d6d596bbe2fd0800000000000000
+      internalID: -2364746693109545691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_67
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1280
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1dd6dfc1f4fc2000800000000000000
+      internalID: 12654218386529565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1281
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860521d93beb33890800000000000000
+      internalID: -7479424877488615320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_69
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1217
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ea49d7a9753a310800000000000000
+      internalID: 1415071028967943766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_70
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1217
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d42c15395ceb2520800000000000000
+      internalID: 2678494271289173200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_71
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1218
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76471f8acc1a4a00800000000000000
+      internalID: 741436744965506687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_72
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1218
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d75993fd20e20f0800000000000000
+      internalID: -1139970497911095952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_73
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1217
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77b280d484663670800000000000000
+      internalID: 8518106266814560123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_74
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1217
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc9df49d7b5c91e0800000000000000
+      internalID: -2189774723880215300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_75
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1217
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262f488b638983030800000000000000
+      internalID: 3474694473307714146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_76
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1217
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f995c22ca37b3d10800000000000000
+      internalID: 2106404433880783346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_77
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1217
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7ff3ae076e5f810800000000000000
+      internalID: 1798596998845167527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1153
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026bbc3adbaa8d560800000000000000
+      internalID: 7338803324273800736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_79
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1153
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d759b4f4a506f9c0800000000000000
+      internalID: -3893918621776652329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_80
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1152
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f86d08dfd5e2fd0800000000000000
+      internalID: -2364849410953277627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_81
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1152
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d735a3e4f182b30800000000000000
+      internalID: 4262691468152634743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_82
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1152
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e691ddb0538e9ef40800000000000000
+      internalID: 5758388913099839854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_83
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1153
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258ec4f497a0fe4e0800000000000000
+      internalID: -1950328597490374574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1152
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e33a3b96d6937d0800000000000000
+      internalID: -2938196981129724346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_85
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1152
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a38027e717b0550800000000000000
+      internalID: 6128116505860651616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_86
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1152
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54aa935ed671c97a0800000000000000
+      internalID: -6369190012244088251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_87
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1089
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff15baabd6b548f90800000000000000
+      internalID: -6952331397911850497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_88
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1089
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e91f8684e052c10800000000000000
+      internalID: 2028042911361375814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_89
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1090
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1e0ba13e9522170800000000000000
+      internalID: 8152177107434267105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_90
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1090
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a6c2cdf85fab750800000000000000
+      internalID: 6321635025190939261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_91
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1089
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a635fe7ae146de00800000000000000
+      internalID: 1069114436955223721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_92
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1089
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb22a5dec8bb4270800000000000000
+      internalID: 8235879542064032767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_93
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1089
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ffba5b9ec5ca0b0800000000000000
+      internalID: -5716091668194918545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_94
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1089
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a11a9acecac2aa30800000000000000
+      internalID: 4225162389938114976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_95
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1089
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c566ebeb599acfc0800000000000000
+      internalID: -3473795542484097596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_96
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1025
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415905f45e6af0ed0800000000000000
+      internalID: -2445552568830487276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_97
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1024
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b022bc833cec5b800800000000000000
+      internalID: 627635060954833419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_98
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1024
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f851e7a018f5f730800000000000000
+      internalID: 4032401791799875824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_99
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1024
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d18c6685345bc90800000000000000
+      internalID: -7154738386047591105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_100
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1024
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483e2507682841d20800000000000000
+      internalID: 3248364745162679172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_101
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1024
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2742fe556c5f2da70800000000000000
+      internalID: 8850406449930511474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_102
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 961
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7915c29c6f0ee1df0800000000000000
+      internalID: -207481182270762601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_103
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 961
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c4247bf156380f0800000000000000
+      internalID: -1115937095764784083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_104
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 961
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48eaaa1f1ef1e7e20800000000000000
+      internalID: 3350150228092825220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_105
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 961
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df4c277f0c958070800000000000000
+      internalID: 8108058294388281296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_106
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 961
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c103ebd9a8ea3100800000000000000
+      internalID: 88638958923350465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_107
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 961
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6787ea2755a9cc0800000000000000
+      internalID: -3703553792517048596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_108
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 897
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a7aba261317a7c0800000000000000
+      internalID: -4060255553124140524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_109
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 897
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e0d3d4067791720800000000000000
+      internalID: 2817414297393368616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_110
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 897
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12c7fb64757f43c0800000000000000
+      internalID: -4373147570265406948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_111
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 897
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089c25cdd88942b50800000000000000
+      internalID: 6567541891667249536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_112
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 897
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00fbaea87ff51130800000000000000
+      internalID: 3537013976161054732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_113
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 897
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4984c861643b4d140800000000000000
+      internalID: 4743613421135349908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_114
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 833
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fbc83bdde1f9630800000000000000
+      internalID: 3935898536894054159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_115
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 833
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a322a9a9628dc40800000000000000
+      internalID: 5537218187304778253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_116
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 833
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682f9e33085cef750800000000000000
+      internalID: 6340722479801692806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_117
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 833
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e576d644967eba80800000000000000
+      internalID: -8449185471684774429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_118
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 833
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63316044db4f2010800000000000000
+      internalID: 1166234203497509740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_119
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 833
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f257a99c6e76680800000000000000
+      internalID: -8761780796471824627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_120
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 769
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56a0663a13877d10800000000000000
+      internalID: 2123309897933170271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_121
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 767
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e94c641e95c4daf0800000000000000
+      internalID: -372455586426762783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_122
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 767
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8521e57ad9e5ab360800000000000000
+      internalID: 7186160186633884248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_123
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 767
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ef3dc54398a8700800000000000000
+      internalID: 543397563040267880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_124
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 767
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91053b73e28e149e0800000000000000
+      internalID: -1638773504185511911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_125
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 767
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56369b44980b5340800000000000000
+      internalID: 4853482456438158943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_126
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 767
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce36ca449ac52f50800000000000000
+      internalID: 6856108745999924937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_127
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 767
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d0ebf04123f82d0800000000000000
+      internalID: -3274343342330213004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_128
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 767
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751b20869f0dd2bf0800000000000000
+      internalID: -347391826627219113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_129
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 767
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846bf5a9a1c012410800000000000000
+      internalID: 1450453863388657224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_130
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 767
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19be388146b36b630800000000000000
+      internalID: 3942403824903515025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_131
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 767
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe055c8b0f8bf390800000000000000
+      internalID: -7783470251217973507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_132
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 767
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53aa6c357f8790d80800000000000000
+      internalID: -8283957035913532875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_133
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 705
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8d4566de4c41050800000000000000
+      internalID: 5770453546471577814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_134
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 705
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c700bf8ba460dd0800000000000000
+      internalID: -2520244783121662919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_135
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 705
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6d8a449bf872880800000000000000
+      internalID: -8635775734575999300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_136
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 705
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437d32f8c87718400800000000000000
+      internalID: 324672093728003892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_137
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 705
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f39b5ee7b6b3400800000000000000
+      internalID: 304955592541814621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_138
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 705
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb345573f1dde3d0800000000000000
+      internalID: -3175651318650618959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_139
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 705
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bc7202f1b687300800000000000000
+      internalID: 250067560746699609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_140
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 705
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e6724be40c6b050800000000000000
+      internalID: 5816047413058039300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_141
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 705
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328948adf581842f0800000000000000
+      internalID: -988513318240741341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_142
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 705
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb4eded7d903ec70800000000000000
+      internalID: 8999047303178111950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_143
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 705
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31558124f16edf110800000000000000
+      internalID: 1296445289679836435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_144
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 705
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b5c8ce47e226270800000000000000
+      internalID: 8242201347761134382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_145
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 705
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8b6f20b48b8c0d0800000000000000
+      internalID: -3402266886166628166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_146
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 641
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138fa687480bfaa90800000000000000
+      internalID: -7300422387941836751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_147
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 642
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb04f0631ee46380800000000000000
+      internalID: -8978789990071530557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_148
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 642
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d822e73e5b58a8620800000000000000
+      internalID: 2777179136479601293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_149
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 641
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8885ab6e397cbeb20800000000000000
+      internalID: 3164842601202997384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_150
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 641
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6557a487678b166b0800000000000000
+      internalID: -5304756067101936298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_151
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 641
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32aefcaff31683a00800000000000000
+      internalID: 736445466493839907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_152
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 641
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e6be14d22152f90800000000000000
+      internalID: -6979152061951938919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_153
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 641
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea3c37d526e6b3a0800000000000000
+      internalID: -6649874749566731537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_154
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 641
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315cfb31842b63c40800000000000000
+      internalID: 5491772818263622931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_155
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 641
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf28b1dc9bbd3030800000000000000
+      internalID: 3476140769607692207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_156
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 641
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c970b8069f90070800000000000000
+      internalID: 8073258000083033229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_157
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 641
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76cf1cd36260f9c0800000000000000
+      internalID: -3895505496641124739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_158
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 641
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79603ec1ae5d1b50800000000000000
+      internalID: 6565507880818076029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_159
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 577
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4fa9cf7b6f12860800000000000000
+      internalID: 7503549724253418722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_160
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 577
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4a67864cfc980e0800000000000000
+      internalID: -2267052494931188566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_161
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 577
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1282b827cb6d429e0800000000000000
+      internalID: -1646955458846840799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_162
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 577
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf64eac6de0c19c70800000000000000
+      internalID: 8976167658289252091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_163
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 577
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198edad248f3209d0800000000000000
+      internalID: -2809613380591163247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_164
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 577
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de006e25f9157aef0800000000000000
+      internalID: -97019122232721171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_165
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 577
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb73a19c9fa3c590800000000000000
+      internalID: -7655081854606541874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_166
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 577
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2459b7548a2c07020800000000000000
+      internalID: 2337582234581308738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_167
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 577
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf79ac3170ff5c80800000000000000
+      internalID: -8331676416472416292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_168
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 577
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81fa00da1fbad42d0800000000000000
+      internalID: -3292786698059993320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_169
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 577
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0ac6f9813defb90800000000000000
+      internalID: -7206090251038842650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_170
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 577
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8dbc0c0139203300800000000000000
+      internalID: 229728871628193163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_171
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 577
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d34fe5e57e8c7c0800000000000000
+      internalID: -4050733472313754344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_172
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 513
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71165229fad50cf50800000000000000
+      internalID: 6899617637784183063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_173
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 513
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25af22cfc28ac750800000000000000
+      internalID: 6326012455423026479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_174
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 513
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ce64cff9c8852c0800000000000000
+      internalID: -4442646413640799205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_175
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 514
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904013e49324cdc50800000000000000
+      internalID: 6691295960258118665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_176
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 514
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda74c5d0bf61a210800000000000000
+      internalID: 1342476969224469212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_177
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 512
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310d34aeb0eb1bce0800000000000000
+      internalID: -1391121851496542189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_178
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 417
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c793c5a476141980800000000000000
+      internalID: -8569199500726134839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_179
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 416
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7131d7f12c31b98a0800000000000000
+      internalID: -6297417929474632937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_180
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 416
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93afe0935efb551e0800000000000000
+      internalID: -2209649050929661383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_181
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 416
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af9b97e545ee4760800000000000000
+      internalID: 7444139322491248547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_182
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 416
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5004ee4fef8490a0800000000000000
+      internalID: -6875712473104383907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_183
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 416
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828ff0486daae4e50800000000000000
+      internalID: 6795556726064019496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_184
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 289
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e23f17041c080430800000000000000
+      internalID: 3749259969944302310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_185
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 289
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4725b4c757154940800000000000000
+      internalID: 5279651803891574605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_186
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 289
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb869172c04baca0800000000000000
+      internalID: -6004634474294899734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_187
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 289
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad9fc26685d75800800000000000000
+      internalID: 601183848437357996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_188
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 289
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ccb1e15f3374ea0800000000000000
+      internalID: -5888680859898491751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_189
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 289
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd298ff2a99ffc60800000000000000
+      internalID: 7854165200508366323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_190
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 161
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64eeb370d52715130800000000000000
+      internalID: 3553747324850925126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_191
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 161
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537ba28211cb8a470800000000000000
+      internalID: 8406175486361384757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_192
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 161
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f6748f95a851ae0800000000000000
+      internalID: -1579203975301337225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_193
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 161
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0b9be09f376e720800000000000000
+      internalID: 2875112925653741731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_194
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 161
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91795de13ea1976b0800000000000000
+      internalID: -5298173923847465191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_195
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 161
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b32a3cdbb6dbc60800000000000000
+      internalID: 7835537389469711194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_196
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 33
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c6cd77ed2b601b0800000000000000
+      internalID: -5690664410572624811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_197
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 33
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364e766aa5f3b7900800000000000000
+      internalID: 683209427048195171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_198
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 33
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b521c62682323380800000000000000
+      internalID: -8993069954148260431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_199
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 33
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4e5033d31de88a0800000000000000
+      internalID: -6300868767865510699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_200
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 33
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f812d4c34579ffb0800000000000000
+      internalID: -4613527409339000583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reptilien1_201
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 33
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba70d37b04d2c150800000000000000
+      internalID: 5891504408206801592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
