@@ -1,0 +1,5527 @@
+fileFormatVersion: 2
+guid: 06a9afc2fdc29c94faea73cf506c8316
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2758046399704659501
+    second: MaitreReptilien_0
+  - first:
+      213: 6887239318699698602
+    second: MaitreReptilien_1
+  - first:
+      213: 5531294302896725287
+    second: MaitreReptilien_2
+  - first:
+      213: 480332597649673316
+    second: MaitreReptilien_3
+  - first:
+      213: -1177117996701357167
+    second: MaitreReptilien_4
+  - first:
+      213: 6397449049629420877
+    second: MaitreReptilien_5
+  - first:
+      213: -2537823713009014690
+    second: MaitreReptilien_6
+  - first:
+      213: -1941246485557590938
+    second: MaitreReptilien_7
+  - first:
+      213: -8296014811472773434
+    second: MaitreReptilien_8
+  - first:
+      213: -9047707599401626
+    second: MaitreReptilien_9
+  - first:
+      213: -7124187799572112460
+    second: MaitreReptilien_10
+  - first:
+      213: 3585862650948064353
+    second: MaitreReptilien_11
+  - first:
+      213: -7346703012340456196
+    second: MaitreReptilien_12
+  - first:
+      213: 4924390646362686689
+    second: MaitreReptilien_13
+  - first:
+      213: -1314404741674037579
+    second: MaitreReptilien_14
+  - first:
+      213: 2548870557597586210
+    second: MaitreReptilien_15
+  - first:
+      213: 4126687597228448837
+    second: MaitreReptilien_16
+  - first:
+      213: -6176097743120806193
+    second: MaitreReptilien_17
+  - first:
+      213: -2084663673599625928
+    second: MaitreReptilien_18
+  - first:
+      213: 897825746732630695
+    second: MaitreReptilien_19
+  - first:
+      213: 1353622581884852607
+    second: MaitreReptilien_20
+  - first:
+      213: 5564558403255559741
+    second: MaitreReptilien_21
+  - first:
+      213: -742141926114708425
+    second: MaitreReptilien_22
+  - first:
+      213: -2233752431470675528
+    second: MaitreReptilien_23
+  - first:
+      213: 6787456231091730309
+    second: MaitreReptilien_24
+  - first:
+      213: -2930258769348057600
+    second: MaitreReptilien_25
+  - first:
+      213: -8307603670559865913
+    second: MaitreReptilien_26
+  - first:
+      213: 317430313055921087
+    second: MaitreReptilien_27
+  - first:
+      213: 6733769212202367543
+    second: MaitreReptilien_28
+  - first:
+      213: -5259132490835409474
+    second: MaitreReptilien_29
+  - first:
+      213: 1201750847280372445
+    second: MaitreReptilien_30
+  - first:
+      213: -3558533017833683544
+    second: MaitreReptilien_31
+  - first:
+      213: 6458804879537969696
+    second: MaitreReptilien_32
+  - first:
+      213: -5468090165231185909
+    second: MaitreReptilien_33
+  - first:
+      213: -1523307482723546477
+    second: MaitreReptilien_34
+  - first:
+      213: -1825039581446092284
+    second: MaitreReptilien_35
+  - first:
+      213: -4930342544308468018
+    second: MaitreReptilien_36
+  - first:
+      213: -8549539140533308690
+    second: MaitreReptilien_37
+  - first:
+      213: 867629106859668577
+    second: MaitreReptilien_38
+  - first:
+      213: 4569978236794725205
+    second: MaitreReptilien_39
+  - first:
+      213: 6509239529492266784
+    second: MaitreReptilien_40
+  - first:
+      213: -1738859832346349313
+    second: MaitreReptilien_41
+  - first:
+      213: 1614879347538332221
+    second: MaitreReptilien_42
+  - first:
+      213: 4385616881291233899
+    second: MaitreReptilien_43
+  - first:
+      213: 1387995706211476947
+    second: MaitreReptilien_44
+  - first:
+      213: -7886117551018634954
+    second: MaitreReptilien_45
+  - first:
+      213: -5812471329079291183
+    second: MaitreReptilien_46
+  - first:
+      213: -3835818744719866040
+    second: MaitreReptilien_47
+  - first:
+      213: 694622584252804335
+    second: MaitreReptilien_48
+  - first:
+      213: 2719428855647193616
+    second: MaitreReptilien_49
+  - first:
+      213: -3469104163122633659
+    second: MaitreReptilien_50
+  - first:
+      213: -707586078072097670
+    second: MaitreReptilien_51
+  - first:
+      213: -2834518647291602334
+    second: MaitreReptilien_52
+  - first:
+      213: 949609115100292180
+    second: MaitreReptilien_53
+  - first:
+      213: 9158242949625207278
+    second: MaitreReptilien_54
+  - first:
+      213: 364161833721218136
+    second: MaitreReptilien_55
+  - first:
+      213: 7092885259247347761
+    second: MaitreReptilien_56
+  - first:
+      213: 2635083007175477291
+    second: MaitreReptilien_57
+  - first:
+      213: -8146758604189893202
+    second: MaitreReptilien_58
+  - first:
+      213: -7792851249566152061
+    second: MaitreReptilien_59
+  - first:
+      213: 4897057800395193465
+    second: MaitreReptilien_60
+  - first:
+      213: 1325829994207036952
+    second: MaitreReptilien_61
+  - first:
+      213: 3452874953835715254
+    second: MaitreReptilien_62
+  - first:
+      213: 7199256987435105847
+    second: MaitreReptilien_63
+  - first:
+      213: -5639133058659549009
+    second: MaitreReptilien_64
+  - first:
+      213: -1768057959868450839
+    second: MaitreReptilien_65
+  - first:
+      213: 207601217709728189
+    second: MaitreReptilien_66
+  - first:
+      213: 6131384583689067374
+    second: MaitreReptilien_67
+  - first:
+      213: 5480312268789059399
+    second: MaitreReptilien_68
+  - first:
+      213: -4163318925872467111
+    second: MaitreReptilien_69
+  - first:
+      213: -3151525207904812258
+    second: MaitreReptilien_70
+  - first:
+      213: 3107861574726581292
+    second: MaitreReptilien_71
+  - first:
+      213: 503818341295658185
+    second: MaitreReptilien_72
+  - first:
+      213: -805466702783103572
+    second: MaitreReptilien_73
+  - first:
+      213: -5822792058819826166
+    second: MaitreReptilien_74
+  - first:
+      213: 7875370969450099066
+    second: MaitreReptilien_75
+  - first:
+      213: 4179997334497125607
+    second: MaitreReptilien_76
+  - first:
+      213: 7494055811631334086
+    second: MaitreReptilien_77
+  - first:
+      213: 3560685776942540808
+    second: MaitreReptilien_78
+  - first:
+      213: -6415988327596469110
+    second: MaitreReptilien_79
+  - first:
+      213: -8196654096650920588
+    second: MaitreReptilien_80
+  - first:
+      213: 5476580115829394362
+    second: MaitreReptilien_81
+  - first:
+      213: 391004303282162113
+    second: MaitreReptilien_82
+  - first:
+      213: 4960292959259656775
+    second: MaitreReptilien_83
+  - first:
+      213: 7470645512167547660
+    second: MaitreReptilien_84
+  - first:
+      213: 6479210743140444348
+    second: MaitreReptilien_85
+  - first:
+      213: -1871333854921401215
+    second: MaitreReptilien_86
+  - first:
+      213: 2027089498694894078
+    second: MaitreReptilien_87
+  - first:
+      213: 7762861300566403200
+    second: MaitreReptilien_88
+  - first:
+      213: 5114343303843777095
+    second: MaitreReptilien_89
+  - first:
+      213: -1075996606167192177
+    second: MaitreReptilien_90
+  - first:
+      213: 8759103205521955745
+    second: MaitreReptilien_91
+  - first:
+      213: -201457441691498933
+    second: MaitreReptilien_92
+  - first:
+      213: 3675532854703072508
+    second: MaitreReptilien_93
+  - first:
+      213: 4028683138161704067
+    second: MaitreReptilien_94
+  - first:
+      213: -379536572453898289
+    second: MaitreReptilien_95
+  - first:
+      213: 3326524145880165727
+    second: MaitreReptilien_96
+  - first:
+      213: -4407136596152336696
+    second: MaitreReptilien_97
+  - first:
+      213: -1378751299172222458
+    second: MaitreReptilien_98
+  - first:
+      213: 3699185507973800285
+    second: MaitreReptilien_99
+  - first:
+      213: 6284644950622735038
+    second: MaitreReptilien_100
+  - first:
+      213: -2464318394428920848
+    second: MaitreReptilien_101
+  - first:
+      213: -8504734078357855855
+    second: MaitreReptilien_102
+  - first:
+      213: -9184707287386273283
+    second: MaitreReptilien_103
+  - first:
+      213: -3028612560855395235
+    second: MaitreReptilien_104
+  - first:
+      213: -3120104541938430410
+    second: MaitreReptilien_105
+  - first:
+      213: 2470999274436154009
+    second: MaitreReptilien_106
+  - first:
+      213: 213479804507796705
+    second: MaitreReptilien_107
+  - first:
+      213: -5963912182421551414
+    second: MaitreReptilien_108
+  - first:
+      213: 5894166139462793159
+    second: MaitreReptilien_109
+  - first:
+      213: -6742237195408466236
+    second: MaitreReptilien_110
+  - first:
+      213: 8344456940129787666
+    second: MaitreReptilien_111
+  - first:
+      213: -2336765094320223929
+    second: MaitreReptilien_112
+  - first:
+      213: 310909194758632811
+    second: MaitreReptilien_113
+  - first:
+      213: -8070241826953357199
+    second: MaitreReptilien_114
+  - first:
+      213: 571153487475216683
+    second: MaitreReptilien_115
+  - first:
+      213: 355098241232788602
+    second: MaitreReptilien_116
+  - first:
+      213: -4200590030754319004
+    second: MaitreReptilien_117
+  - first:
+      213: -3944156744395407565
+    second: MaitreReptilien_118
+  - first:
+      213: 7789239808716801711
+    second: MaitreReptilien_119
+  - first:
+      213: 1165821431952997412
+    second: MaitreReptilien_120
+  - first:
+      213: 4518014515089045445
+    second: MaitreReptilien_121
+  - first:
+      213: 820171563726914423
+    second: MaitreReptilien_122
+  - first:
+      213: -5128642094914047138
+    second: MaitreReptilien_123
+  - first:
+      213: -3598322192592657620
+    second: MaitreReptilien_124
+  - first:
+      213: 8359544261081407415
+    second: MaitreReptilien_125
+  - first:
+      213: 1718318243095062129
+    second: MaitreReptilien_126
+  - first:
+      213: 6972739538501944346
+    second: MaitreReptilien_127
+  - first:
+      213: 7986538506339738723
+    second: MaitreReptilien_128
+  - first:
+      213: 6445043372839330105
+    second: MaitreReptilien_129
+  - first:
+      213: 1159923988892839075
+    second: MaitreReptilien_130
+  - first:
+      213: 69877094171866974
+    second: MaitreReptilien_131
+  - first:
+      213: -5087474683464529150
+    second: MaitreReptilien_132
+  - first:
+      213: -7774002385488412267
+    second: MaitreReptilien_133
+  - first:
+      213: -278281845810482706
+    second: MaitreReptilien_134
+  - first:
+      213: 8302085880658308808
+    second: MaitreReptilien_135
+  - first:
+      213: -5072882329614213656
+    second: MaitreReptilien_136
+  - first:
+      213: -8999193438062704506
+    second: MaitreReptilien_137
+  - first:
+      213: -8318788541852124037
+    second: MaitreReptilien_138
+  - first:
+      213: -5065624445326743284
+    second: MaitreReptilien_139
+  - first:
+      213: 5068411058484551288
+    second: MaitreReptilien_140
+  - first:
+      213: -1993433810679503705
+    second: MaitreReptilien_141
+  - first:
+      213: 7591683941842166557
+    second: MaitreReptilien_142
+  - first:
+      213: 2354633373010194031
+    second: MaitreReptilien_143
+  - first:
+      213: -6175989503386307341
+    second: MaitreReptilien_144
+  - first:
+      213: -8489500001445874886
+    second: MaitreReptilien_145
+  - first:
+      213: 254158427603554534
+    second: MaitreReptilien_146
+  - first:
+      213: 8024438517635090204
+    second: MaitreReptilien_147
+  - first:
+      213: -2084813308336511541
+    second: MaitreReptilien_148
+  - first:
+      213: 1784305482459259
+    second: MaitreReptilien_149
+  - first:
+      213: 7011162937137273478
+    second: MaitreReptilien_150
+  - first:
+      213: 1448718309030277194
+    second: MaitreReptilien_151
+  - first:
+      213: 2633931171430531658
+    second: MaitreReptilien_152
+  - first:
+      213: -3534787892505563444
+    second: MaitreReptilien_153
+  - first:
+      213: -3233916817630731747
+    second: MaitreReptilien_154
+  - first:
+      213: 9095868794867603629
+    second: MaitreReptilien_155
+  - first:
+      213: 2424787515425439242
+    second: MaitreReptilien_156
+  - first:
+      213: -1241072445694915461
+    second: MaitreReptilien_157
+  - first:
+      213: -805043989640168722
+    second: MaitreReptilien_158
+  - first:
+      213: 2177868624257490598
+    second: MaitreReptilien_159
+  - first:
+      213: 1913492668894245009
+    second: MaitreReptilien_160
+  - first:
+      213: 3745931069110000207
+    second: MaitreReptilien_161
+  - first:
+      213: 3495343533666946026
+    second: MaitreReptilien_162
+  - first:
+      213: -4566184927595713186
+    second: MaitreReptilien_163
+  - first:
+      213: -1759709967202554984
+    second: MaitreReptilien_164
+  - first:
+      213: -7708749251749489212
+    second: MaitreReptilien_165
+  - first:
+      213: -2716658669721813619
+    second: MaitreReptilien_166
+  - first:
+      213: 3054839678838263058
+    second: MaitreReptilien_167
+  - first:
+      213: -680979033717524680
+    second: MaitreReptilien_168
+  - first:
+      213: -2279635414457791806
+    second: MaitreReptilien_169
+  - first:
+      213: 3329307998241417465
+    second: MaitreReptilien_170
+  - first:
+      213: -947848173529123675
+    second: MaitreReptilien_171
+  - first:
+      213: -2681008139958174885
+    second: MaitreReptilien_172
+  - first:
+      213: -355383151287722437
+    second: MaitreReptilien_173
+  - first:
+      213: 7917841742389910285
+    second: MaitreReptilien_174
+  - first:
+      213: -4649589269784116546
+    second: MaitreReptilien_175
+  - first:
+      213: -3095716370309565029
+    second: MaitreReptilien_176
+  - first:
+      213: 8963808786837014702
+    second: MaitreReptilien_177
+  - first:
+      213: -6010026826926246794
+    second: MaitreReptilien_178
+  - first:
+      213: -6435039833115144827
+    second: MaitreReptilien_179
+  - first:
+      213: -3132686107620250580
+    second: MaitreReptilien_180
+  - first:
+      213: 7166076002124164409
+    second: MaitreReptilien_181
+  - first:
+      213: 789525148230996457
+    second: MaitreReptilien_182
+  - first:
+      213: -8600115491058600012
+    second: MaitreReptilien_183
+  - first:
+      213: 7708310920725361078
+    second: MaitreReptilien_184
+  - first:
+      213: 5752867376774790559
+    second: MaitreReptilien_185
+  - first:
+      213: -3984642502398033325
+    second: MaitreReptilien_186
+  - first:
+      213: -4777669331783647354
+    second: MaitreReptilien_187
+  - first:
+      213: -6295800107998192751
+    second: MaitreReptilien_188
+  - first:
+      213: -1983636031883002632
+    second: MaitreReptilien_189
+  - first:
+      213: 8787549960000172417
+    second: MaitreReptilien_190
+  - first:
+      213: -8018239357149667848
+    second: MaitreReptilien_191
+  - first:
+      213: -3748621115199425930
+    second: MaitreReptilien_192
+  - first:
+      213: -8290805818837177218
+    second: MaitreReptilien_193
+  - first:
+      213: -7296212996813699613
+    second: MaitreReptilien_194
+  - first:
+      213: -8676770919738968461
+    second: MaitreReptilien_195
+  - first:
+      213: 8290376162621610866
+    second: MaitreReptilien_196
+  - first:
+      213: 2161336834653941734
+    second: MaitreReptilien_197
+  - first:
+      213: 6197275838609790790
+    second: MaitreReptilien_198
+  - first:
+      213: -2326489407519470352
+    second: MaitreReptilien_199
+  - first:
+      213: -140774109492224436
+    second: MaitreReptilien_200
+  - first:
+      213: -1071942955916079912
+    second: MaitreReptilien_201
+  - first:
+      213: -3576352042784761539
+    second: MaitreReptilien_202
+  - first:
+      213: 6494299568485422789
+    second: MaitreReptilien_203
+  - first:
+      213: 7419253237616481783
+    second: MaitreReptilien_204
+  - first:
+      213: -5742645027911688712
+    second: MaitreReptilien_205
+  - first:
+      213: -7494765824995871781
+    second: MaitreReptilien_206
+  - first:
+      213: 3644123007909209207
+    second: MaitreReptilien_207
+  - first:
+      213: -5120076904699644314
+    second: MaitreReptilien_208
+  - first:
+      213: -1037807150689059090
+    second: MaitreReptilien_209
+  - first:
+      213: -3431477228010203670
+    second: MaitreReptilien_210
+  - first:
+      213: -1919783413531218219
+    second: MaitreReptilien_211
+  - first:
+      213: -2241810015045929294
+    second: MaitreReptilien_212
+  - first:
+      213: -619103211687442261
+    second: MaitreReptilien_213
+  - first:
+      213: -7512597002379196846
+    second: MaitreReptilien_214
+  - first:
+      213: -2292365522869353271
+    second: MaitreReptilien_215
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MaitreReptilien_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2049
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26f078769c864620800000000000000
+      internalID: 2758046399704659501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2049
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9e2329ba3649f50800000000000000
+      internalID: 6887239318699698602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2049
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d1d48ccda13cc40800000000000000
+      internalID: 5531294302896725287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2049
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c03f0e3fb7aa600800000000000000
+      internalID: 480332597649673316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2049
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b65eb2b690aafe0800000000000000
+      internalID: -1177117996701357167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2049
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d62d7f30e48c850800000000000000
+      internalID: 6397449049629420877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2049
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58e88b67c6d7ccd0800000000000000
+      internalID: -2537823713009014690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1985
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6644dd64b9e4f05e0800000000000000
+      internalID: -1941246485557590938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1985
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce39ceab72aedc80800000000000000
+      internalID: -8296014811472773434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1985
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d818a682bdfdff0800000000000000
+      internalID: -9047707599401626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_10
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1985
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb155d11fcc12d90800000000000000
+      internalID: -7124187799572112460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1985
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1649913151b83c130800000000000000
+      internalID: 3585862650948064353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1985
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4a727e8844b0a90800000000000000
+      internalID: -7346703012340456196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_13
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1985
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e444bbc333f65440800000000000000
+      internalID: 4924390646362686689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1921
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be0e69f9db42cde0800000000000000
+      internalID: -1314404741674037579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_15
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1921
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2235e0484486f5320800000000000000
+      internalID: 2548870557597586210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1921
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54cdfcb6180f44930800000000000000
+      internalID: 4126687597228448837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1921
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce413333d71a4aa0800000000000000
+      internalID: -6176097743120806193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1921
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835fee21f69c113e0800000000000000
+      internalID: -2084663673599625928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1921
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2c23082c7b57c00800000000000000
+      internalID: 897825746732630695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_20
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1921
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f799131019809c210800000000000000
+      internalID: 1353622581884852607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_21
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1857
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3666fda268493d40800000000000000
+      internalID: 5564558403255559741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_22
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1857
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7343209a9d163b5f0800000000000000
+      internalID: -742141926114708425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_23
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1857
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9760e9ffd1001e0800000000000000
+      internalID: -2233752431470675528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_24
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1857
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587fbbe0b73e13e50800000000000000
+      internalID: 6787456231091730309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1857
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0062909ac21a557d0800000000000000
+      internalID: -2930258769348057600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1857
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c34c892a7675bc80800000000000000
+      internalID: -8307603670559865913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_27
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1857
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3a3aa103db76400800000000000000
+      internalID: 317430313055921087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_28
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1793
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ab8c4eb67237d50800000000000000
+      internalID: 6733769212202367543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1791
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb54a091ddec307b0800000000000000
+      internalID: -5259132490835409474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_30
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1791
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddadba8470a7da010800000000000000
+      internalID: 1201750847280372445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_31
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1791
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5468ef21d8d9ec0800000000000000
+      internalID: -3558533017833683544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_32
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1791
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a9b6651d842a950800000000000000
+      internalID: 6458804879537969696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_33
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1791
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00969547f07d14b0800000000000000
+      internalID: -5468090165231185909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_34
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1791
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a81905aef1cdae0800000000000000
+      internalID: -1523307482723546477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_35
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1791
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ac0ee8b282ca6e0800000000000000
+      internalID: -1825039581446092284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1729
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec68f79f397e39bb0800000000000000
+      internalID: -4930342544308468018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1729
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2b637f27fe95980800000000000000
+      internalID: -8549539140533308690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1729
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164f82763107a0c00800000000000000
+      internalID: 867629106859668577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_39
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1729
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5536a6b5ef2db6f30800000000000000
+      internalID: 4569978236794725205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_40
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1729
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f31595dd6755a50800000000000000
+      internalID: 6509239529492266784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_41
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1729
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0fcc202345ed7e0800000000000000
+      internalID: -1738859832346349313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_42
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1729
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a0329e534396610800000000000000
+      internalID: 1614879347538332221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_43
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1729
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a025a4157dcdc30800000000000000
+      internalID: 4385616881291233899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_44
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1665
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5a08aadb6234310800000000000000
+      internalID: 1387995706211476947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_45
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1666
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6319f8aaed1ee8290800000000000000
+      internalID: -7886117551018634954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_46
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1666
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2161b3f14f55fa0800000000000000
+      internalID: -5812471329079291183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1666
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847003abc2f64cac0800000000000000
+      internalID: -3835818744719866040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_48
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1666
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec2a536f8bc3a900800000000000000
+      internalID: 694622584252804335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_49
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1666
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a4cc4d22a5db520800000000000000
+      internalID: 2719428855647193616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_50
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1666
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5442f3cc4244bdfc0800000000000000
+      internalID: -3469104163122633659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_51
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1666
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74308006362e26f0800000000000000
+      internalID: -707586078072097670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_52
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1601
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a96f6ee44c9a8d0800000000000000
+      internalID: -2834518647291602334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_53
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1601
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454a60d7570bd2d00800000000000000
+      internalID: 949609115100292180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_54
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1601
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9d223b07d981f70800000000000000
+      internalID: 9158242949625207278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_55
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1601
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85445b32243cd0500800000000000000
+      internalID: 364161833721218136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_56
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1601
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138ea06409dfe6260800000000000000
+      internalID: 7092885259247347761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_57
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1601
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28cc54a802b19420800000000000000
+      internalID: 2635083007175477291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_58
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1601
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead776e7636e0fe80800000000000000
+      internalID: -8146758604189893202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_59
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1601
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a862aa31b3ad390800000000000000
+      internalID: -7792851249566152061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_60
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1535
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c7c1daf18d5f340800000000000000
+      internalID: 4897057800395193465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_61
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1535
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816c44dea5b466210800000000000000
+      internalID: 1325829994207036952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_62
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1536
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba9835f9731bef20800000000000000
+      internalID: 3452874953835715254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_63
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1536
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e71d63616e8e360800000000000000
+      internalID: 7199256987435105847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_64
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1536
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa08f6d4c56cdb1b0800000000000000
+      internalID: -5639133058659549009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_65
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1535
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e73dbf27a89677e0800000000000000
+      internalID: -1768057959868450839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_66
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1536
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1e684253c81e200800000000000000
+      internalID: 207601217709728189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_67
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1536
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bd71c1bcd071550800000000000000
+      internalID: 6131384583689067374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1536
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f0367f8fafd0c40800000000000000
+      internalID: 5480312268789059399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_69
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1473
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953f5b0ce7be836c0800000000000000
+      internalID: -4163318925872467111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_70
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1473
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13052a55888344d0800000000000000
+      internalID: -3151525207904812258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_71
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1473
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2cf9a4d2a7512b20800000000000000
+      internalID: 3107861574726581292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_72
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1473
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c41140bc1cedf600800000000000000
+      internalID: 503818341295658185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_73
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1473
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad35362d4862d4f0800000000000000
+      internalID: -805466702783103572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_74
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1473
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e24151979413fa0800000000000000
+      internalID: -5822792058819826166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_75
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1473
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a713f74db20fa4d60800000000000000
+      internalID: 7875370969450099066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_76
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1473
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4e7ccdd65520a30800000000000000
+      internalID: 4179997334497125607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_77
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1473
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2cc333e0c300860800000000000000
+      internalID: 7494055811631334086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_78
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1407
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808227b49d81a6130800000000000000
+      internalID: 3560685776942540808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_79
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1406
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a845f820c94d5f6a0800000000000000
+      internalID: -6415988327596469110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_80
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1408
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d1f5ed682af3e80800000000000000
+      internalID: -8196654096650920588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_81
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1408
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb8af36998b00c40800000000000000
+      internalID: 5476580115829394362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_82
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1408
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c948ca97502d6500800000000000000
+      internalID: 391004303282162113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_83
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1407
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7420b8a6a2086d440800000000000000
+      internalID: 4960292959259656775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_84
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1408
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03ec9b13801da760800000000000000
+      internalID: 7470645512167547660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_85
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1408
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8e7c1b7d7cae950800000000000000
+      internalID: 6479210743140444348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_86
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1408
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c5f3116cfa706e0800000000000000
+      internalID: -1871333854921401215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_87
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1345
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef142a9b82ba12c10800000000000000
+      internalID: 2027089498694894078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_88
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1345
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08823e439393bbb60800000000000000
+      internalID: 7762861300566403200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_89
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1345
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a810d432cc9f640800000000000000
+      internalID: 5114343303843777095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_90
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1345
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8de0ed99ca4111f0800000000000000
+      internalID: -1075996606167192177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_91
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1345
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab1f1c25f59e8970800000000000000
+      internalID: 8759103205521955745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_92
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1345
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b468e9e2687443df0800000000000000
+      internalID: -201457441691498933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_93
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1345
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4aad458ad120330800000000000000
+      internalID: 3675532854703072508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_94
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1345
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cfbb228f1c8e730800000000000000
+      internalID: 4028683138161704067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_95
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1345
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7bd9b8f7d9bbaf0800000000000000
+      internalID: -379536572453898289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_96
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1281
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d62f306103a2e20800000000000000
+      internalID: 3326524145880165727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_97
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1280
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce37b5ad94b6d2c0800000000000000
+      internalID: -4407136596152336696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_98
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1280
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a3b339ff0bddce0800000000000000
+      internalID: -1378751299172222458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_99
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1280
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d512d01de95265330800000000000000
+      internalID: 3699185507973800285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_100
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1280
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba025df84b873750800000000000000
+      internalID: 6284644950622735038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_101
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1280
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb6a9e0a7bfccdd0800000000000000
+      internalID: -2464318394428920848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_102
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1282
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191225e6a6d19f980800000000000000
+      internalID: -8504734078357855855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_103
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1280
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df94661826d598080800000000000000
+      internalID: -9184707287386273283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_104
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1280
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d549de31ce438f5d0800000000000000
+      internalID: -3028612560855395235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_105
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1283
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e4dab337923b4d0800000000000000
+      internalID: -3120104541938430410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_106
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1283
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992d3098fb0ca4220800000000000000
+      internalID: 2470999274436154009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_107
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1283
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4386a40ce66f200800000000000000
+      internalID: 213479804507796705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_108
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1217
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6832fd77deb3da0800000000000000
+      internalID: -5963912182421551414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_109
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1217
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7b0dd00e84cc150800000000000000
+      internalID: 5894166139462793159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_110
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1217
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce90402ef2ce62a0800000000000000
+      internalID: -6742237195408466236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_111
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1217
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f9aff40677dc370800000000000000
+      internalID: 8344456940129787666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_112
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1217
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749c2850784229fd0800000000000000
+      internalID: -2336765094320223929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_113
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1217
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65bdfee342905400800000000000000
+      internalID: 310909194758632811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_114
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1153
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17812fcf0ddb00090800000000000000
+      internalID: -8070241826953357199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_115
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1153
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b219f2d12152de700800000000000000
+      internalID: 571153487475216683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_116
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1153
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cdb0118ff8de400800000000000000
+      internalID: 355098241232788602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_117
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1153
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46577d96f9184b5c0800000000000000
+      internalID: -4200590030754319004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_118
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1153
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fb9d7865a8349c0800000000000000
+      internalID: -3944156744395407565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_119
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1153
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa685ec3650f81c60800000000000000
+      internalID: 7789239808716801711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_120
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1089
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c78136a64dd2010800000000000000
+      internalID: 1165821431952997412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_121
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1089
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7f0f5934633be30800000000000000
+      internalID: 4518014515089045445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_122
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1089
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773c1d611b5d16b00800000000000000
+      internalID: 820171563726914423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_123
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1089
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e537888ff2763d8b0800000000000000
+      internalID: -5128642094914047138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_124
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1089
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c232c13d701301ec0800000000000000
+      internalID: -3598322192592657620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_125
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1089
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf99e5f631130470800000000000000
+      internalID: 8359544261081407415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_126
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1026
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17621ca8651b8d710800000000000000
+      internalID: 1718318243095062129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_127
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1025
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14cab7caa524c060800000000000000
+      internalID: 6972739538501944346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_128
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1025
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364eb5ff472e5de60800000000000000
+      internalID: 7986538506339738723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_129
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1025
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931e210ecc4617950800000000000000
+      internalID: 6445043372839330105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_130
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1025
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac696ce8b0e81010800000000000000
+      internalID: 1159923988892839075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_131
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1025
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57fc00d8d048f000800000000000000
+      internalID: 69877094171866974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_132
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1025
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bcd40eab8a569b0800000000000000
+      internalID: -5087474683464529150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_133
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1025
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5918ce1d4023d1490800000000000000
+      internalID: -7774002385488412267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_134
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1025
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1b609b228532cf0800000000000000
+      internalID: -278281845810482706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_135
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1025
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ceac634f1fe63370800000000000000
+      internalID: 8302085880658308808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_136
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1025
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed1df306608999b0800000000000000
+      internalID: -5072882329614213656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_137
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1025
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6880f337f317c1380800000000000000
+      internalID: -8999193438062704506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_138
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1025
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c705165e9bd8c80800000000000000
+      internalID: -8318788541852124037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_139
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 965
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09a3c2e76943b9b0800000000000000
+      internalID: -5065624445326743284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_140
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 965
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e12ac010d965640800000000000000
+      internalID: 5068411058484551288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_141
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 965
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4e137c286e554e0800000000000000
+      internalID: -1993433810679503705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_142
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 965
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d132a8892541b5960800000000000000
+      internalID: 7591683941842166557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_143
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 965
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e6d8ec3965da020800000000000000
+      internalID: 2354633373010194031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_144
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 965
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f43e1ab44a7a4aa0800000000000000
+      internalID: -6175989503386307341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_145
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 965
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33f32d5abc3f2a80800000000000000
+      internalID: -8489500001445874886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_146
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 965
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e05bf94eb3f68300800000000000000
+      internalID: 254158427603554534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_147
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 965
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c170a9501588c5f60800000000000000
+      internalID: 8024438517635090204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_148
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 965
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5689587514113e0800000000000000
+      internalID: -2084813308336511541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_149
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 965
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78e37ef0d6560000800000000000000
+      internalID: 1784305482459259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_150
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 965
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a937a6b87ac4160800000000000000
+      internalID: 7011162937137273478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_151
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 965
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40ba5d50a1ea1410800000000000000
+      internalID: 1448718309030277194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_152
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 900
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4202fbf17a9d8420800000000000000
+      internalID: 2633931171430531658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_153
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 903
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cceaadec329e1fec0800000000000000
+      internalID: -3534787892505563444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_154
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 902
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1265f3d9c1de13d0800000000000000
+      internalID: -3233916817630731747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_155
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 901
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8d4a91a740b3e70800000000000000
+      internalID: 9095868794867603629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_156
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 901
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e3cb0f56396a120800000000000000
+      internalID: 2424787515425439242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_157
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 901
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c44d5af23d6cee0800000000000000
+      internalID: -1241072445694915461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_158
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 901
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea3fe8b1c8e3d4f0800000000000000
+      internalID: -805043989640168722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_159
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 901
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae165499f7593e10800000000000000
+      internalID: 2177868624257490598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_160
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 901
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19071c9b1771e8a10800000000000000
+      internalID: 1913492668894245009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_161
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 901
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a9667e5783cf330800000000000000
+      internalID: 3745931069110000207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_162
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 901
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb4d2cbc64f18030800000000000000
+      internalID: 3495343533666946026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_163
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 901
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d2ae34007a1a0c0800000000000000
+      internalID: -4566184927595713186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_164
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 901
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b6d21bb114497e0800000000000000
+      internalID: -1759709967202554984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_165
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 837
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5d9e2f565050590800000000000000
+      internalID: -7708749251749489212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_166
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 837
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dfe37555d7c4ad0800000000000000
+      internalID: -2716658669721813619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_167
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 837
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d4ceea088f46a20800000000000000
+      internalID: 3054839678838263058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_168
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 837
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83737c34d2dac86f0800000000000000
+      internalID: -680979033717524680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_169
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 837
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cac7d72bab1d50e0800000000000000
+      internalID: -2279635414457791806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_170
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 837
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8eb072cf3143e20800000000000000
+      internalID: 3329307998241417465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_171
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 837
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a43bcbab1198d2f0800000000000000
+      internalID: -947848173529123675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_172
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 837
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bbcd12d452bcad0800000000000000
+      internalID: -2681008139958174885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_173
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 837
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e165428ec611bf0800000000000000
+      internalID: -355383151287722437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_174
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 837
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b19ea3d13d1ed60800000000000000
+      internalID: 7917841742389910285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_175
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 837
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2cc079137597fb0800000000000000
+      internalID: -4649589269784116546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_176
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 837
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95365eec5ec905d0800000000000000
+      internalID: -3095716370309565029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_177
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 837
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea802fd6998d56c70800000000000000
+      internalID: 8963808786837014702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_178
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 767
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6743e728178189ca0800000000000000
+      internalID: -6010026826926246794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_179
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 767
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58dcea7bd5522b6a0800000000000000
+      internalID: -6435039833115144827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_180
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 767
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c6e7235967684d0800000000000000
+      internalID: -3132686107620250580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_181
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 769
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93def0c0824037360800000000000000
+      internalID: 7166076002124164409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_182
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 768
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1db8170f4f4fa00800000000000000
+      internalID: 789525148230996457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_183
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 768
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b73e18b68046a880800000000000000
+      internalID: -8600115491058600012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_184
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 639
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1791821fb69fa60800000000000000
+      internalID: 7708310920725361078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_185
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 637
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d3890366a46df40800000000000000
+      internalID: 5752867376774790559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_186
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 637
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35244af61c4b3b8c0800000000000000
+      internalID: -3984642502398033325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_187
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 639
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ff1c05e0f42bdb0800000000000000
+      internalID: -4777669331783647354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_188
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 639
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bd6e98823d0a8a0800000000000000
+      internalID: -6295800107998192751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_189
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 639
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcb2fbe985b874e0800000000000000
+      internalID: -1983636031883002632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_190
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 639
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181fec35126a3f970800000000000000
+      internalID: 8787549960000172417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_191
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 639
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd990189cd79b090800000000000000
+      internalID: -8018239357149667848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_192
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 447
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672720fe4f83afbc0800000000000000
+      internalID: -3748621115199425930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_193
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 449
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ce77ac80421fc80800000000000000
+      internalID: -8290805818837177218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_194
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 449
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5c457bfe4aeba90800000000000000
+      internalID: -7296212996813699613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_195
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 449
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376f48be1dae59780800000000000000
+      internalID: -8676770919738968461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_196
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 449
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b5d6312355d0370800000000000000
+      internalID: 8290376162621610866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_197
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 449
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efe38d566c9efd10800000000000000
+      internalID: 2161336834653941734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_198
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 449
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64792776a85210650800000000000000
+      internalID: 6197275838609790790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_199
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 449
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcc71bc536a6bfd0800000000000000
+      internalID: -2326489407519470352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_200
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 255
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ed42a71bedb0ef0800000000000000
+      internalID: -140774109492224436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_201
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 255
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcc32d9f81bf11f0800000000000000
+      internalID: -1071942955916079912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_202
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 252
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d395212f3ce3e5ec0800000000000000
+      internalID: -3576352042784761539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_203
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 244
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6db8c9c03602a50800000000000000
+      internalID: 6494299568485422789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_204
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 242
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f51cceb28b76f660800000000000000
+      internalID: 7419253237616481783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_205
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 236
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd1920e5c60e40b0800000000000000
+      internalID: -5742645027911688712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_206
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 242
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3326ee03e3df790800000000000000
+      internalID: -7494765824995871781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_207
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 244
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774a14c7196829230800000000000000
+      internalID: 3644123007909209207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_208
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 64
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66632b8be25d1f8b0800000000000000
+      internalID: -5120076904699644314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_209
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 65
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee71dd15e7f891f0800000000000000
+      internalID: -1037807150689059090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_210
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 65
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae51c9154a1f060d0800000000000000
+      internalID: -3431477228010203670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_211
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 65
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dee8c6282f8b55e0800000000000000
+      internalID: -1919783413531218219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_212
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 65
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6364f3bad73e0e0800000000000000
+      internalID: -2241810015045929294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_213
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 65
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8011cb8e08867f0800000000000000
+      internalID: -619103211687442261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_214
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 65
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256068c64d4edb790800000000000000
+      internalID: -7512597002379196846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaitreReptilien_215
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 65
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c40502d3b1ef20e0800000000000000
+      internalID: -2292365522869353271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cb9bf4d55f6a9f44db6abd4662eb48e7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MaitreReptilien_0: 2758046399704659501
+      MaitreReptilien_1: 6887239318699698602
+      MaitreReptilien_10: -7124187799572112460
+      MaitreReptilien_100: 6284644950622735038
+      MaitreReptilien_101: -2464318394428920848
+      MaitreReptilien_102: -8504734078357855855
+      MaitreReptilien_103: -9184707287386273283
+      MaitreReptilien_104: -3028612560855395235
+      MaitreReptilien_105: -3120104541938430410
+      MaitreReptilien_106: 2470999274436154009
+      MaitreReptilien_107: 213479804507796705
+      MaitreReptilien_108: -5963912182421551414
+      MaitreReptilien_109: 5894166139462793159
+      MaitreReptilien_11: 3585862650948064353
+      MaitreReptilien_110: -6742237195408466236
+      MaitreReptilien_111: 8344456940129787666
+      MaitreReptilien_112: -2336765094320223929
+      MaitreReptilien_113: 310909194758632811
+      MaitreReptilien_114: -8070241826953357199
+      MaitreReptilien_115: 571153487475216683
+      MaitreReptilien_116: 355098241232788602
+      MaitreReptilien_117: -4200590030754319004
+      MaitreReptilien_118: -3944156744395407565
+      MaitreReptilien_119: 7789239808716801711
+      MaitreReptilien_12: -7346703012340456196
+      MaitreReptilien_120: 1165821431952997412
+      MaitreReptilien_121: 4518014515089045445
+      MaitreReptilien_122: 820171563726914423
+      MaitreReptilien_123: -5128642094914047138
+      MaitreReptilien_124: -3598322192592657620
+      MaitreReptilien_125: 8359544261081407415
+      MaitreReptilien_126: 1718318243095062129
+      MaitreReptilien_127: 6972739538501944346
+      MaitreReptilien_128: 7986538506339738723
+      MaitreReptilien_129: 6445043372839330105
+      MaitreReptilien_13: 4924390646362686689
+      MaitreReptilien_130: 1159923988892839075
+      MaitreReptilien_131: 69877094171866974
+      MaitreReptilien_132: -5087474683464529150
+      MaitreReptilien_133: -7774002385488412267
+      MaitreReptilien_134: -278281845810482706
+      MaitreReptilien_135: 8302085880658308808
+      MaitreReptilien_136: -5072882329614213656
+      MaitreReptilien_137: -8999193438062704506
+      MaitreReptilien_138: -8318788541852124037
+      MaitreReptilien_139: -5065624445326743284
+      MaitreReptilien_14: -1314404741674037579
+      MaitreReptilien_140: 5068411058484551288
+      MaitreReptilien_141: -1993433810679503705
+      MaitreReptilien_142: 7591683941842166557
+      MaitreReptilien_143: 2354633373010194031
+      MaitreReptilien_144: -6175989503386307341
+      MaitreReptilien_145: -8489500001445874886
+      MaitreReptilien_146: 254158427603554534
+      MaitreReptilien_147: 8024438517635090204
+      MaitreReptilien_148: -2084813308336511541
+      MaitreReptilien_149: 1784305482459259
+      MaitreReptilien_15: 2548870557597586210
+      MaitreReptilien_150: 7011162937137273478
+      MaitreReptilien_151: 1448718309030277194
+      MaitreReptilien_152: 2633931171430531658
+      MaitreReptilien_153: -3534787892505563444
+      MaitreReptilien_154: -3233916817630731747
+      MaitreReptilien_155: 9095868794867603629
+      MaitreReptilien_156: 2424787515425439242
+      MaitreReptilien_157: -1241072445694915461
+      MaitreReptilien_158: -805043989640168722
+      MaitreReptilien_159: 2177868624257490598
+      MaitreReptilien_16: 4126687597228448837
+      MaitreReptilien_160: 1913492668894245009
+      MaitreReptilien_161: 3745931069110000207
+      MaitreReptilien_162: 3495343533666946026
+      MaitreReptilien_163: -4566184927595713186
+      MaitreReptilien_164: -1759709967202554984
+      MaitreReptilien_165: -7708749251749489212
+      MaitreReptilien_166: -2716658669721813619
+      MaitreReptilien_167: 3054839678838263058
+      MaitreReptilien_168: -680979033717524680
+      MaitreReptilien_169: -2279635414457791806
+      MaitreReptilien_17: -6176097743120806193
+      MaitreReptilien_170: 3329307998241417465
+      MaitreReptilien_171: -947848173529123675
+      MaitreReptilien_172: -2681008139958174885
+      MaitreReptilien_173: -355383151287722437
+      MaitreReptilien_174: 7917841742389910285
+      MaitreReptilien_175: -4649589269784116546
+      MaitreReptilien_176: -3095716370309565029
+      MaitreReptilien_177: 8963808786837014702
+      MaitreReptilien_178: -6010026826926246794
+      MaitreReptilien_179: -6435039833115144827
+      MaitreReptilien_18: -2084663673599625928
+      MaitreReptilien_180: -3132686107620250580
+      MaitreReptilien_181: 7166076002124164409
+      MaitreReptilien_182: 789525148230996457
+      MaitreReptilien_183: -8600115491058600012
+      MaitreReptilien_184: 7708310920725361078
+      MaitreReptilien_185: 5752867376774790559
+      MaitreReptilien_186: -3984642502398033325
+      MaitreReptilien_187: -4777669331783647354
+      MaitreReptilien_188: -6295800107998192751
+      MaitreReptilien_189: -1983636031883002632
+      MaitreReptilien_19: 897825746732630695
+      MaitreReptilien_190: 8787549960000172417
+      MaitreReptilien_191: -8018239357149667848
+      MaitreReptilien_192: -3748621115199425930
+      MaitreReptilien_193: -8290805818837177218
+      MaitreReptilien_194: -7296212996813699613
+      MaitreReptilien_195: -8676770919738968461
+      MaitreReptilien_196: 8290376162621610866
+      MaitreReptilien_197: 2161336834653941734
+      MaitreReptilien_198: 6197275838609790790
+      MaitreReptilien_199: -2326489407519470352
+      MaitreReptilien_2: 5531294302896725287
+      MaitreReptilien_20: 1353622581884852607
+      MaitreReptilien_200: -140774109492224436
+      MaitreReptilien_201: -1071942955916079912
+      MaitreReptilien_202: -3576352042784761539
+      MaitreReptilien_203: 6494299568485422789
+      MaitreReptilien_204: 7419253237616481783
+      MaitreReptilien_205: -5742645027911688712
+      MaitreReptilien_206: -7494765824995871781
+      MaitreReptilien_207: 3644123007909209207
+      MaitreReptilien_208: -5120076904699644314
+      MaitreReptilien_209: -1037807150689059090
+      MaitreReptilien_21: 5564558403255559741
+      MaitreReptilien_210: -3431477228010203670
+      MaitreReptilien_211: -1919783413531218219
+      MaitreReptilien_212: -2241810015045929294
+      MaitreReptilien_213: -619103211687442261
+      MaitreReptilien_214: -7512597002379196846
+      MaitreReptilien_215: -2292365522869353271
+      MaitreReptilien_22: -742141926114708425
+      MaitreReptilien_23: -2233752431470675528
+      MaitreReptilien_24: 6787456231091730309
+      MaitreReptilien_25: -2930258769348057600
+      MaitreReptilien_26: -8307603670559865913
+      MaitreReptilien_27: 317430313055921087
+      MaitreReptilien_28: 6733769212202367543
+      MaitreReptilien_29: -5259132490835409474
+      MaitreReptilien_3: 480332597649673316
+      MaitreReptilien_30: 1201750847280372445
+      MaitreReptilien_31: -3558533017833683544
+      MaitreReptilien_32: 6458804879537969696
+      MaitreReptilien_33: -5468090165231185909
+      MaitreReptilien_34: -1523307482723546477
+      MaitreReptilien_35: -1825039581446092284
+      MaitreReptilien_36: -4930342544308468018
+      MaitreReptilien_37: -8549539140533308690
+      MaitreReptilien_38: 867629106859668577
+      MaitreReptilien_39: 4569978236794725205
+      MaitreReptilien_4: -1177117996701357167
+      MaitreReptilien_40: 6509239529492266784
+      MaitreReptilien_41: -1738859832346349313
+      MaitreReptilien_42: 1614879347538332221
+      MaitreReptilien_43: 4385616881291233899
+      MaitreReptilien_44: 1387995706211476947
+      MaitreReptilien_45: -7886117551018634954
+      MaitreReptilien_46: -5812471329079291183
+      MaitreReptilien_47: -3835818744719866040
+      MaitreReptilien_48: 694622584252804335
+      MaitreReptilien_49: 2719428855647193616
+      MaitreReptilien_5: 6397449049629420877
+      MaitreReptilien_50: -3469104163122633659
+      MaitreReptilien_51: -707586078072097670
+      MaitreReptilien_52: -2834518647291602334
+      MaitreReptilien_53: 949609115100292180
+      MaitreReptilien_54: 9158242949625207278
+      MaitreReptilien_55: 364161833721218136
+      MaitreReptilien_56: 7092885259247347761
+      MaitreReptilien_57: 2635083007175477291
+      MaitreReptilien_58: -8146758604189893202
+      MaitreReptilien_59: -7792851249566152061
+      MaitreReptilien_6: -2537823713009014690
+      MaitreReptilien_60: 4897057800395193465
+      MaitreReptilien_61: 1325829994207036952
+      MaitreReptilien_62: 3452874953835715254
+      MaitreReptilien_63: 7199256987435105847
+      MaitreReptilien_64: -5639133058659549009
+      MaitreReptilien_65: -1768057959868450839
+      MaitreReptilien_66: 207601217709728189
+      MaitreReptilien_67: 6131384583689067374
+      MaitreReptilien_68: 5480312268789059399
+      MaitreReptilien_69: -4163318925872467111
+      MaitreReptilien_7: -1941246485557590938
+      MaitreReptilien_70: -3151525207904812258
+      MaitreReptilien_71: 3107861574726581292
+      MaitreReptilien_72: 503818341295658185
+      MaitreReptilien_73: -805466702783103572
+      MaitreReptilien_74: -5822792058819826166
+      MaitreReptilien_75: 7875370969450099066
+      MaitreReptilien_76: 4179997334497125607
+      MaitreReptilien_77: 7494055811631334086
+      MaitreReptilien_78: 3560685776942540808
+      MaitreReptilien_79: -6415988327596469110
+      MaitreReptilien_8: -8296014811472773434
+      MaitreReptilien_80: -8196654096650920588
+      MaitreReptilien_81: 5476580115829394362
+      MaitreReptilien_82: 391004303282162113
+      MaitreReptilien_83: 4960292959259656775
+      MaitreReptilien_84: 7470645512167547660
+      MaitreReptilien_85: 6479210743140444348
+      MaitreReptilien_86: -1871333854921401215
+      MaitreReptilien_87: 2027089498694894078
+      MaitreReptilien_88: 7762861300566403200
+      MaitreReptilien_89: 5114343303843777095
+      MaitreReptilien_9: -9047707599401626
+      MaitreReptilien_90: -1075996606167192177
+      MaitreReptilien_91: 8759103205521955745
+      MaitreReptilien_92: -201457441691498933
+      MaitreReptilien_93: 3675532854703072508
+      MaitreReptilien_94: 4028683138161704067
+      MaitreReptilien_95: -379536572453898289
+      MaitreReptilien_96: 3326524145880165727
+      MaitreReptilien_97: -4407136596152336696
+      MaitreReptilien_98: -1378751299172222458
+      MaitreReptilien_99: 3699185507973800285
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
