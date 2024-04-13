@@ -142,7 +142,7 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 51
-        width: 47
+        width: 48
         height: 45
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -523,7 +523,7 @@ TextureImporter:
         width: 34
         height: 28
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -544,7 +544,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -552,6 +552,111 @@ TextureImporter:
       bones: []
       spriteID: 4dafbe72b856d0b4d9e74f3c4bbca68f
       internalID: 1378700850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donjon_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097c9bcc39cdd2a44ba68a09368aba0e
+      internalID: -130781868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donjon_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd05da4377fe67c49af386c6c8eda9b3
+      internalID: 1120206049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donjon_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 359
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a30bc8114d6264fa8211f6091c12f1
+      internalID: -2117911615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donjon_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 51
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aca8b7d53b082f4c9ca2040a2700cca
+      internalID: 1540391668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donjon_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 51
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9d8669470d3334e803e2ca3a8b3e45
+      internalID: -1976825263
       vertices: []
       indices: 
       edges: []
@@ -586,6 +691,11 @@ TextureImporter:
       donjon_2: -608165757
       donjon_3: 461888394
       donjon_4: 1378700850
+      donjon_5: -130781868
+      donjon_6: 1120206049
+      donjon_7: -2117911615
+      donjon_8: 1540391668
+      donjon_9: -1976825263
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -10,7 +10,15 @@ public class ControleLola : MonoBehaviour
     float positionX; //Position de Lola à l'horizontale
     float positionY; //Position de Lola à la verticale
 
-    float lesVies = 3; //Le nombre de vie de Lola, on commence avec 3 vies
+    float lesVies = 6; //Le nombre de vie de Lola, on commence avec 3 vies
+
+    public GameObject coeur1; //Variable pour le premier coeur de vie de Lola
+    public GameObject coeur2; //Variable pour le deuxième coeur de vie de Lola
+    public GameObject coeur3; //Variable pour le troisième coeur de vie de Lola
+
+    public Sprite coeurPlein; //Variable pour le premier coeur de vie de Lola
+    public Sprite coeurMoitie; //Variable pour le deuxième coeur de vie de Lola
+    public Sprite coeurFini; //Variable pour le troisième coeur de vie de Lola
 
     bool partieTerminee;
     public bool attaque;
@@ -24,11 +32,16 @@ public class ControleLola : MonoBehaviour
 
 
     /* Détection des touches et modification de la vitesse de déplacement;
-       "a" et "d" pour avancer et reculer, "w" pour sauter
+       "a" et "d" pour avancer 
     */
     void Update()
     {
-
+        /*Gestion des touches pour controler Lola
+         * "a" ou fleche gauche pour aller à gauche
+         * "d" ou fleche droite pour aller à droite
+         * "w" ou fleche haut pour aller en haut
+         * "s" ou fleche bas pour aller en bas
+         */
         if (!partieTerminee)
         {
             // déplacement vers la gauche
@@ -45,7 +58,7 @@ public class ControleLola : MonoBehaviour
                 GetComponent<SpriteRenderer>().flipX = false;
                 GetComponent<Animator>().SetBool("marche", true);
             }
-            // sauter l'objet à l'aide la touche "w"
+            //sauter l'objet à l'aide la touche "w"
             else if (Input.GetKey("w") || Input.GetKey(KeyCode.UpArrow))
             {
                 positionY += vitesse;
@@ -65,46 +78,68 @@ public class ControleLola : MonoBehaviour
 
             transform.position = new Vector2 (positionX, positionY);
 
-
+            //Gestion de la touche pour l'attaque avec la barre d'espace et le mode attaque à "true"
             if (Input.GetKeyDown(KeyCode.Space) && attaque == false)
             {
-
-                attaque = true;
-                Invoke("AnnulerAttaque", 0.4f);
-                GetComponent<Animator>().SetTrigger("attaqueAnim");
-                GetComponent<Animator>().SetBool("saut", false);
+                enAttaque = true;
+                Invoke("AnnulerAttaque", 0.5f);
+                GetComponent<Animator>().SetBool("attaque", true);
+                print("coucou");
             }
-
-            /*if (attaque == true && vitesseX <= vitesseXMax && vitesseX >= -vitesseXMax)
-            {
-
-                vitesseX *= 4;
-
-            }*/
-
-            //**************************Gestion des animaitons de course et de repos********************************
-            //Active l'animation de course si la vitesse de déplacement n'est pas 0, sinon le repos sera jouer par Animator
-
-
-
-            /*if (vitesseX > 0.1f || vitesseX < -0.1f)
-            {
-
-                GetComponent<Animator>().SetBool("course", true);
-            }
-            else
-            {
-
-                GetComponent<Animator>().SetBool("course", false);
-            }*/
-
-
         }
 
+        //Gestion des images des coeurs selon le nombre de vies******************************
+        if (lesVies == 0)
+        {
+            coeur1.GetComponent<SpriteRenderer>().sprite = coeurFini;
+            coeur2.GetComponent<SpriteRenderer>().sprite = coeurFini;
+            coeur3.GetComponent<SpriteRenderer>().sprite = coeurFini;
+        }
 
+        if (lesVies == 1)
+        {
+            coeur1.GetComponent<SpriteRenderer>().sprite = coeurMoitie;
+            coeur2.GetComponent<SpriteRenderer>().sprite = coeurFini;
+            coeur3.GetComponent<SpriteRenderer>().sprite = coeurFini;
+        }
+
+        if (lesVies == 2)
+        {
+            coeur1.GetComponent<SpriteRenderer>().sprite = coeurPlein;
+            coeur2.GetComponent<SpriteRenderer>().sprite = coeurFini;
+            coeur3.GetComponent<SpriteRenderer>().sprite = coeurFini;
+        }
+
+        if (lesVies == 3)
+        {
+            coeur1.GetComponent<SpriteRenderer>().sprite = coeurPlein;
+            coeur2.GetComponent<SpriteRenderer>().sprite = coeurMoitie;
+            coeur3.GetComponent<SpriteRenderer>().sprite = coeurFini;
+        }
+
+        if (lesVies == 4)
+        {
+            coeur1.GetComponent<SpriteRenderer>().sprite = coeurPlein;
+            coeur2.GetComponent<SpriteRenderer>().sprite = coeurPlein;
+            coeur3.GetComponent<SpriteRenderer>().sprite = coeurFini;
+        }
+
+        if (lesVies == 5)
+        {
+            coeur1.GetComponent<SpriteRenderer>().sprite = coeurPlein;
+            coeur2.GetComponent<SpriteRenderer>().sprite = coeurPlein;
+            coeur3.GetComponent<SpriteRenderer>().sprite = coeurMoitie;
+        }
+
+        if (lesVies == 6)
+        {
+            coeur1.GetComponent<SpriteRenderer>().sprite = coeurPlein;
+            coeur2.GetComponent<SpriteRenderer>().sprite = coeurPlein;
+            coeur3.GetComponent<SpriteRenderer>().sprite = coeurPlein;
+        }
     }
 
-    /******************************GESTION DES ATTAQUES, DES POTIONS ET DE LA VIE DE LOLA******************************/
+    /******************************GESTION DES ATTAQUES, DES POTIONS ET DE LA VIE DE LOLA AVEC COLLISIONS******************************/
     
     private void OnCollisionEnter2D(Collision2D infoCollision)
     {
@@ -112,7 +147,7 @@ public class ControleLola : MonoBehaviour
         if(infoCollision.gameObject.tag == "reptileNormal" && !enAttaque && !enAttaqueArme)
         {
             lesVies -= 0.5f;
-            print(lesVies);
+            //print(lesVies);
             infoCollision.gameObject.GetComponent<Animator>().SetBool("attaque", true);
 
         }
@@ -121,6 +156,8 @@ public class ControleLola : MonoBehaviour
         if(infoCollision.gameObject.tag == "reptileNormal" && enAttaque)
         {
             infoCollision.gameObject.GetComponent<GestionReptiliensNormal>().lesVies -= 1;
+            //Animation de dégat du reptiliens
+            infoCollision.gameObject.GetComponent<Animator>().SetBool("degat", true);
         }
 
         //Si Lola est en attaque et armée lors de la collision avec un reptiliens, elle fera perd 1 vie au reptilien touché
@@ -133,11 +170,17 @@ public class ControleLola : MonoBehaviour
         if(infoCollision.gameObject.name == "PotionVie")
         {
             lesVies += 1f;
-            print(lesVies);
+            //print(lesVies);
+        }
+
+        if(infoCollision.gameObject.name == "PotionVitesse")
+        {
+            vitesse *= 1.5f;
+            Invoke("AnnulerPotionVitesse", 8f);
         }
 
         /*GESTION DES CLÉS FINALE AVEC BOSS*/
-        if( infoCollision.gameObject.name == "Cle")
+        if(infoCollision.gameObject.name == "Cle")
         {
             Destroy(infoCollision.gameObject);
 
@@ -146,6 +189,16 @@ public class ControleLola : MonoBehaviour
         }
     }
 
-    /*********************************************R**************************************/
-    
+    //Fonction pour terminer l'attaque
+   void AnnulerAttaque()
+    {
+        enAttaque = false;
+        GetComponent<Animator>().SetBool("attaque", false);
+    }
+
+    //Fontion pour redonner une vitesse normale à Lola
+    void AnnulerPotionVitesse()
+    {
+        vitesse /= 1.5f;
+    }
 }
