@@ -15,10 +15,12 @@ public class ControleLola : MonoBehaviour
     public GameObject coeur1; //Variable pour le premier coeur de vie de Lola
     public GameObject coeur2; //Variable pour le deuxième coeur de vie de Lola
     public GameObject coeur3; //Variable pour le troisième coeur de vie de Lola
+    public GameObject laPorteBoss; //Variable pour la porte vers la finale avec le boss
 
-    public Sprite coeurPlein; //Variable pour le premier coeur de vie de Lola
-    public Sprite coeurMoitie; //Variable pour le deuxième coeur de vie de Lola
-    public Sprite coeurFini; //Variable pour le troisième coeur de vie de Lola
+    public Sprite coeurPlein; //Variable pour l'image du coeur plein
+    public Sprite coeurMoitie; //Variable pour l'image du coeur à moitié plein
+    public Sprite coeurFini; //Variable pour l'image du coeur vide/fini
+    public Sprite porteOuverte; //Variable pour l'image de la porte vers le boss finale, ouverte 
 
     bool partieTerminee;
     public bool attaque;
@@ -77,7 +79,7 @@ public class ControleLola : MonoBehaviour
 
             transform.position = new Vector2 (positionX, positionY);
 
-            //Gestion de la touche pour l'attaque avec la barre d'espace et le mode attaque à "true"
+            //Gestion de la touche pour l'attaque avec la barre d'espace et le mode attaque OU attaque armée à "true"
             if (Input.GetKeyDown(KeyCode.Space) && attaque == false)
             {
                 enAttaque = true;
@@ -91,7 +93,7 @@ public class ControleLola : MonoBehaviour
         /*Gestion des images des coeurs selon le nombre de vies*
          * Gestion de la mort de Lola
          */
-        //Etablir la contrainte pour le nombre de vie, il ne faut pas que ce soit au dessus de 6 points;
+        //Établir la contrainte pour le nombre de vie, il ne faut pas que ce soit au dessus de 6 points;
         else if(lesVies > 6)
         {
             lesVies = 6;
@@ -152,6 +154,19 @@ public class ControleLola : MonoBehaviour
             coeur2.GetComponent<SpriteRenderer>().sprite = coeurPlein;
             coeur3.GetComponent<SpriteRenderer>().sprite = coeurPlein;
         }
+
+
+        //GESTION DE L'OUVERTURE DE LA PORTE DU BOSS ET DU CHANGEMENT DE SCÈNE
+
+        if(compteurCle == 5)
+        {
+        //On change l'image de la porte fermée pour une image de porte ouverte
+        laPorteBoss.GetComponent<SpriteRenderer>().sprite = porteOuverte;   
+            
+        print(compteurCle); 
+        }
+
+        //On permet l'ouverture de la porte pour atteindre le boss
     }
 
     /******************************GESTION DES ATTAQUES, DES POTIONS ET DE LA VIE DE LOLA AVEC COLLISIONS******************************/
@@ -204,13 +219,13 @@ public class ControleLola : MonoBehaviour
             }
         }
 
-        /*GESTION DES CLÉS FINALE AVEC BOSS*/
+        /*GESTION DES CLÉS pour la FINALE AVEC BOSS*/
         if(infoCollision.gameObject.name == "Cle")
         {
+            //On détruit les clés récoltées
             Destroy(infoCollision.gameObject);
-
+            //On additionne 1 points à chaque clés amassées
             compteurCle += 1;
-            print(compteurCle);
         }
     }
 

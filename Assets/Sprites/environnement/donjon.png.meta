@@ -628,7 +628,7 @@ TextureImporter:
         width: 48
         height: 45
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -649,7 +649,7 @@ TextureImporter:
         width: 48
         height: 45
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -657,6 +657,27 @@ TextureImporter:
       bones: []
       spriteID: 0b9d8669470d3334e803e2ca3a8b3e45
       internalID: -1976825263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donjon_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5319c19684bd745468e4329cdb3fa59b
+      internalID: 2023301370
       vertices: []
       indices: 
       edges: []
@@ -688,6 +709,7 @@ TextureImporter:
       Tiles_9: 1847890643
       donjon_0: 1712765868
       donjon_1: 450217319
+      donjon_10: 2023301370
       donjon_2: -608165757
       donjon_3: 461888394
       donjon_4: 1378700850
