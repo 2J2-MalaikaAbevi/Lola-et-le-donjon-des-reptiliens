@@ -10,7 +10,7 @@ public class ControleLola : MonoBehaviour
     float positionX; //Position de Lola à l'horizontale
     float positionY; //Position de Lola à la verticale
 
-    float lesVies = 6; //Le nombre de vie de Lola, on commence avec 3 vies
+    int lesVies = 6; //Le nombre de vie de Lola, on commence avec 3 vies
 
     public GameObject coeur1; //Variable pour le premier coeur de vie de Lola
     public GameObject coeur2; //Variable pour le deuxième coeur de vie de Lola
@@ -24,11 +24,10 @@ public class ControleLola : MonoBehaviour
     public bool attaque;
 
     bool enAttaque = false; //Variable pour savoir si Lola est en attaque ou non
-    bool enAttaqueArme = false; //Variable pour savoir si Lola est en attaque avec son arme
+    bool enAttaqueArme = false; //Variable pour savoir si Lola est en attaque avec son arme ou non
+    bool vitesseAugmentee = false; //Variable pour savoir si Lola à sa vitesse augmentée ou non
 
     int compteurCle = 0; //Variable pour enregistrer le nombre de clés amassées
-
-    //public TagHandle leReptilienNormal; //Variable pour le tag qui identifie les reptiliens
 
 
     /* Détection des touches et modification de la vitesse de déplacement;
@@ -88,12 +87,28 @@ public class ControleLola : MonoBehaviour
             }
         }
 
-        //Gestion des images des coeurs selon le nombre de vies******************************
-        if (lesVies == 0)
+
+        /*Gestion des images des coeurs selon le nombre de vies*
+         * Gestion de la mort de Lola
+         */
+        //Etablir la contrainte pour le nombre de vie, il ne faut pas que ce soit au dessus de 6 points;
+        else if(lesVies > 6)
         {
+            lesVies = 6;
+        }
+
+        if (lesVies <= 0)
+        {
+            //Gestion des images de coeurs
             coeur1.GetComponent<SpriteRenderer>().sprite = coeurFini;
             coeur2.GetComponent<SpriteRenderer>().sprite = coeurFini;
             coeur3.GetComponent<SpriteRenderer>().sprite = coeurFini;
+
+            //Gestion de l'animation de mort de Lola
+            GetComponent<Animator>().SetBool("mort", true);
+
+            //On enregistre que la partie est terminée
+            partieTerminee = true;
         }
 
         if (lesVies == 1)
@@ -146,7 +161,7 @@ public class ControleLola : MonoBehaviour
         /*Gestion des attaques données et reçues*/
         if(infoCollision.gameObject.tag == "reptileNormal" && !enAttaque && !enAttaqueArme)
         {
-            lesVies -= 0.5f;
+            lesVies -= 1;
             //print(lesVies);
             infoCollision.gameObject.GetComponent<Animator>().SetBool("attaque", true);
 
@@ -169,14 +184,24 @@ public class ControleLola : MonoBehaviour
         /*Gestion de la potion de vie*/
         if(infoCollision.gameObject.name == "PotionVie")
         {
-            lesVies += 1f;
+            //Lola ne prendra de la vie et la potion disparaitra que si elle a moins de 6 point de vie
+            if(lesVies < 6)
+            {
+            //On redonne un point de vie à Lola
+            lesVies += 1;
+            infoCollision.gameObject.SetActive(false);
             //print(lesVies);
+            }
         }
 
         if(infoCollision.gameObject.name == "PotionVitesse")
-        {
+        {   //Lola ne prendra de la vitesse et la potion disparaitra que si sa vitesse n'est initialement pas augmentée
+            if (!vitesseAugmentee)
+            {
             vitesse *= 1.5f;
+            vitesseAugmentee = true;
             Invoke("AnnulerPotionVitesse", 8f);
+            }
         }
 
         /*GESTION DES CLÉS FINALE AVEC BOSS*/
@@ -199,6 +224,12 @@ public class ControleLola : MonoBehaviour
     //Fontion pour redonner une vitesse normale à Lola
     void AnnulerPotionVitesse()
     {
+        vitesseAugmentee = false;
         vitesse /= 1.5f;
+    }
+
+    void ApparitionPotionVitesse()
+    {
+
     }
 }
