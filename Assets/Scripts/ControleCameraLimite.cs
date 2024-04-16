@@ -2,8 +2,15 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+/* Fonctionnement et utilité générale du script:
+   Gestion des limites verticales et horizontales de la caméra
+   Par : Malaïka Abevi
+   Dernière modification : 15/04/2024
+*/
+
 public class ControleCameraLimite : MonoBehaviour
 {
+    /*SCRIPT QUI VA POSSIBLEMENT ÊTRE SUPPRIMÉ*/
     public GameObject cible;
 
     public float limiteHaut;

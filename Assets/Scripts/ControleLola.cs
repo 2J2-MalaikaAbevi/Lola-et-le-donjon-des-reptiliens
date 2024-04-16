@@ -4,12 +4,23 @@ using TMPro;
 using Unity.VisualScripting;
 using UnityEngine;
 
+/* Fonctionnement et utilité générale du script:
+   Gestion des déplacements horizontaux et verticaux de Lola à l'aide des touches : Left (ou A), Right (ou D), Up (ou W) et Down (ou S).
+   Gestion des détections des collisions entre Lola et les objets du jeu.
+   Gestion des animations
+   Gestion des fins de partie
+   Par : Malaïka Abevi
+   Dernière modification : 15/04/2024
+*/
+
 public class ControleLola : MonoBehaviour
 {
-    public float vitesseMax; //vitesse horizontale actuelle
+    public float vitesseMax; //vitesse désirée pour Lola
+    public float vitesseLimite; //La limite de vitesse de Lola
 
-    float vitesseX; //Position de Lola à l'horizontale
-    float vitesseY; //Position de Lola à la verticale
+    float vitesseX; //Vitesse de Lola à l'horizontale
+    float vitesseY; //Vitesse de Lola à la verticale
+
 
     int lesVies = 6; //Le nombre de vie de Lola, on commence avec 3 vies
 
@@ -18,6 +29,8 @@ public class ControleLola : MonoBehaviour
     public GameObject coeur3; //Variable pour le troisième coeur de vie de Lola
     public GameObject laPorteBoss; //Variable pour la porte vers la finale avec le boss
 
+    public GameObject redemarrerPartie; //Variable pour le gameObject qui contient le script pour relancer la partie
+
     public Sprite coeurPlein; //Variable pour l'image du coeur plein
     public Sprite coeurMoitie; //Variable pour l'image du coeur à moitié plein
     public Sprite coeurFini; //Variable pour l'image du coeur vide/fini
@@ -25,8 +38,11 @@ public class ControleLola : MonoBehaviour
 
     public TextMeshProUGUI affichageCompteurCle; //Variable pour le texte pour le nombre de clés pour la porte de boss amassées
 
-    bool partieTerminee;
-    public bool attaque;
+    public TextMeshProUGUI affichageRecommencerPartie; //Variable pour le texte qui indique de presser sur la barre d'espace pour rejouer
+
+    bool partieTerminee; //Variable pour enregistrer si la partie est terminée ou non
+    
+    //public bool attaque; Variable possiblement utile pour plus tard
 
     bool enAttaque = false; //Variable pour savoir si Lola est en attaque ou non
     bool enAttaqueArme = false; //Variable pour savoir si Lola est en attaque avec son arme ou non
@@ -35,12 +51,9 @@ public class ControleLola : MonoBehaviour
     int compteurCle = 0; //Variable pour enregistrer le nombre de clés amassées
 
 
-    /* Détection des touches et modification de la vitesse de déplacement;
-       "a" et "d" pour avancer 
-    */
     void Update()
     {
-        /*Gestion des touches pour controler Lola
+        /*Détection des touches pour controler Lola
          * "a" ou fleche gauche pour aller à gauche
          * "d" ou fleche droite pour aller à droite
          * "w" ou fleche haut pour aller en haut
@@ -48,64 +61,76 @@ public class ControleLola : MonoBehaviour
          */
         if (!partieTerminee)
         {
-            // déplacement vers la gauche
+            //déplacement vers la gauche
             if (Input.GetKey("a") || Input.GetKey(KeyCode.LeftArrow))
             {
                 vitesseX = -vitesseMax;
                 GetComponent<SpriteRenderer>().flipX = true;
-                //GetComponent<Animator>().SetBool("marche", true);
             }
             //déplacement vers la droite
             else if (Input.GetKey("d") || Input.GetKey(KeyCode.RightArrow))   
             {
                 vitesseX = vitesseMax;
-                GetComponent<SpriteRenderer>().flipX = false;
-                //GetComponent<Animator>().SetBool("marche", true);
+                GetComponent<SpriteRenderer>().flipX = false;               
             }
             else
             {
                 vitesseX = GetComponent<Rigidbody2D>().velocity.x;
-               // GetComponent<Animator>().SetBool("marche", false);
+                
             }
             
-            //sauter l'objet à l'aide la touche "w"
+            //déplacement vers le haut
             if (Input.GetKey("w") || Input.GetKey(KeyCode.UpArrow))
             {
-                vitesseY = vitesseMax;
-                //GetComponent<Animator>().SetBool("marche", true);
+                vitesseY = vitesseMax;                
             }
+            //déplacement vers le bas
             else if(Input.GetKey("s") || Input.GetKey(KeyCode.DownArrow))
             {
-                vitesseY = -vitesseMax;
-                //GetComponent<Animator>().SetBool("marche", true);
+                vitesseY = -vitesseMax;               
             }
             else
             {
-                vitesseY = GetComponent<Rigidbody2D>().velocity.y;
-                //GetComponent<Animator>().SetBool("marche", false);
+                vitesseY = GetComponent<Rigidbody2D>().velocity.y;                
             }
 
+            //Puis on met les valeurs de vitesses pour la vélocité
             GetComponent<Rigidbody2D>().velocity = new Vector2(vitesseX, vitesseY);
 
+
             //Gestion de la touche pour l'attaque avec la barre d'espace et le mode attaque OU attaque armée à "true"
-            if (Input.GetKeyDown(KeyCode.Space) && attaque == false)
+            if (Input.GetKeyDown(KeyCode.Space) && enAttaque == false)
             {
+                //Enregistrer Lola comme etant en attaque classique
                 enAttaque = true;
-                Invoke("AnnulerAttaque", 0.5f);
+
+                //Faire jouer l'animation de l'attaque classique
                 GetComponent<Animator>().SetBool("attaque", true);
-                print("coucou");
+
+                //Invoquer la fonction pour arreter l'attaque après 0,5sec, le temps que l'animation joue
+                Invoke("AnnulerAttaque", 0.5f);
+
+                //On augmente la vitesse le Lola pour la propulser lors de l'attaque si elle n'est pas déja à la vitesse limite
+                if(Mathf.Abs(vitesseX) < vitesseLimite)
+                {
+                    vitesseMax *= 1.5f;
+                }
+
             }
 
-            if(vitesseX > 0.9 || -vitesseX < 0.9)
+            //On active la marche seulement si la vitesse en X ou en Y est au dela de 0,9
+            if(Mathf.Abs(vitesseX) > 0.9 || Mathf.Abs(vitesseY) > 0.9)
             {
-
+                GetComponent<Animator>().SetBool("marche", true);
+            }
+            else
+            {
+                GetComponent<Animator>().SetBool("marche", false);
             }
         }
 
 
-        /*Gestion des images des coeurs selon le nombre de vies*
-         * Gestion de la mort de Lola
-         */
+        /***Gestion des images des coeurs selon le nombre de vies et gestion de la mort de Lola***/
         //Établir la contrainte pour le nombre de vie, il ne faut pas que ce soit au dessus de 6 points;
         else if(lesVies > 6)
         {
@@ -124,6 +149,11 @@ public class ControleLola : MonoBehaviour
 
             //On enregistre que la partie est terminée
             partieTerminee = true;
+
+            //Activer le gameObject qui s'occupe du redemarrage de la partie et du texte l'accompagnant
+            redemarrerPartie.SetActive(true);
+            //Activer le texte de redémarrage de partie
+            affichageRecommencerPartie.gameObject.SetActive(true);
         }
 
         if (lesVies == 1)
@@ -171,15 +201,12 @@ public class ControleLola : MonoBehaviour
 
         //GESTION DE L'OUVERTURE DE LA PORTE DU BOSS ET DU CHANGEMENT DE SCÈNE
 
+        //Si on a récuperé 5 clés, la porte s'ouvre
         if(compteurCle == 5)
         {
         //On change l'image de la porte fermée pour une image de porte ouverte
-        laPorteBoss.GetComponent<SpriteRenderer>().sprite = porteOuverte;   
-            
-        print(compteurCle); 
+        laPorteBoss.GetComponent<SpriteRenderer>().sprite = porteOuverte;
         }
-
-        //On permet l'ouverture de la porte pour atteindre le boss
     }
 
     /******************************GESTION DES ATTAQUES, DES POTIONS ET DE LA VIE DE LOLA AVEC COLLISIONS******************************/
@@ -213,11 +240,11 @@ public class ControleLola : MonoBehaviour
 
         //Gestion de la potion de vie
         if(infoCollision.gameObject.name == "PotionVie")
-        {
+        {   
             //Lola ne prendra de la vie et la potion disparaitra que si elle a moins de 6 point de vie
-            if(lesVies < 6)
+            if (lesVies < 6)
             {
-            //On redonne un point de vie à Lola
+            //On redonne un point de vie à Lola    
             lesVies += 1;
             //On désactive la potion de vie 
             infoCollision.gameObject.SetActive(false);
@@ -229,10 +256,15 @@ public class ControleLola : MonoBehaviour
         {   //Lola ne prendra de la vitesse et la potion disparaitra que si sa vitesse n'est initialement pas augmentée
             if (!vitesseAugmentee)
             {
+                //On désactive la potion de vitesse
+                infoCollision.gameObject.SetActive(false);
+                
                 //On augmente la vitesse de Lola
                 vitesseMax *= 1.5f;
+                
                 //Enregistrer que la vitesse de Lola a été accélérée
                 vitesseAugmentee = true;
+                
                 //Puis on invoque une fonction qui va annuler les effets de la potion après 8sec
                 Invoke("AnnulerPotionVitesse", 8f);
             }
@@ -249,7 +281,6 @@ public class ControleLola : MonoBehaviour
 
             //On affiche la valeur du compteur dans l'interface du jeu
             affichageCompteurCle.text = compteurCle.ToString();
-
         }
     }
 
@@ -259,14 +290,25 @@ public class ControleLola : MonoBehaviour
         //Rendre l'attaque fausse
         enAttaque = false;
 
+        //Ramener la vitesse de Lola à la normale
+        vitesseMax /= 1.5f;
+        
+        //On désactive l'animation d'attaque
         GetComponent<Animator>().SetBool("attaque", false);
     }
 
-    //Fontion pour redonner une vitesse normale à Lola
+    //Fonction pour redonner une vitesse normale à Lola
     void AnnulerPotionVitesse()
     {
         vitesseAugmentee = false;
         vitesseMax /= 1.5f;
+    }
+
+
+    // ********Fonctions qui serviront plus tard pour la réapparition des potions de vie et de vitesse*********
+    void ApparitionPotionVie()
+    {
+
     }
 
     void ApparitionPotionVitesse()
@@ -274,3 +316,4 @@ public class ControleLola : MonoBehaviour
 
     }
 }
+
