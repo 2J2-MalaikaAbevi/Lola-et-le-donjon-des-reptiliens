@@ -10,7 +10,7 @@ using UnityEngine;
    Gestion des animations
    Gestion des fins de partie
    Par : Malaïka Abevi
-   Dernière modification : 15/04/2024
+   Dernière modification : 06/05/2024
 */
 
 public class ControleLola : MonoBehaviour
@@ -24,11 +24,14 @@ public class ControleLola : MonoBehaviour
 
     int lesVies = 6; //Le nombre de vie de Lola, on commence avec 3 vies
 
+    //Interface utilisateur*********************************************************************
     public GameObject coeur1; //Variable pour le premier coeur de vie de Lola
     public GameObject coeur2; //Variable pour le deuxième coeur de vie de Lola
     public GameObject coeur3; //Variable pour le troisième coeur de vie de Lola
-    public GameObject laPorteBoss; //Variable pour la porte vers la finale avec le boss
+    public GameObject poingUI; //Variable pour l'affichage du poing de Lola (mode de d'attaque)
+    public GameObject armeMagiqueUI; //Variable pour l'affichage de l'arme magique attrapée
 
+    public GameObject laPorteBoss; //Variable pour la porte vers la finale avec le boss
     public GameObject redemarrerPartie; //Variable pour le gameObject qui contient le script pour relancer la partie
 
     public Sprite coeurPlein; //Variable pour l'image du coeur plein
@@ -211,7 +214,7 @@ public class ControleLola : MonoBehaviour
 
     /******************************GESTION DES ATTAQUES, DES POTIONS ET DE LA VIE DE LOLA AVEC COLLISIONS******************************/
     
-    private void OnCollisionEnter2D(Collision2D infoCollision)
+    void OnCollisionEnter2D(Collision2D infoCollision)
     {
         /*Gestion des attaques données et reçues*/
         if(infoCollision.gameObject.tag == "reptileNormal" && !enAttaque && !enAttaqueArme)
@@ -249,6 +252,15 @@ public class ControleLola : MonoBehaviour
             //On désactive la potion de vie 
             infoCollision.gameObject.SetActive(false);
             }
+        }
+
+        //Gestion pour l'arme magique
+        if(infoCollision.gameObject.name == "ArmeMagique")
+        {
+            //On affiche l'arme comme étant acquise
+            armeMagiqueUI.SetActive(true);
+            //On fait disparaitre l'arme au sol
+            Destroy(infoCollision.gameObject); /**Éventuellement, animation de l'arme, donc délai avait avant destroy**/
         }
 
         //Gestion de la potion de vitesse
