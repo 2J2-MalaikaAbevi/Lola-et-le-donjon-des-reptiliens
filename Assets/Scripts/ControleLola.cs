@@ -51,7 +51,7 @@ public class ControleLola : MonoBehaviour
     bool enAttaqueArme = false; //Variable pour savoir si Lola est en attaque avec son arme ou non
     bool vitesseAugmentee = false; //Variable pour savoir si Lola à sa vitesse augmentée ou non
 
-    int compteurCle = 0; //Variable pour enregistrer le nombre de clés amassées
+    public static int compteurCle = 0; //Variable pour enregistrer le nombre de clés amassées
 
 
     void Update()
@@ -233,6 +233,9 @@ public class ControleLola : MonoBehaviour
             
             //Animation de dégat du reptiliens
             infoCollision.gameObject.GetComponent<Animator>().SetBool("degat", true);
+
+            //On indique dans un autre script que le reptilien est bien attaqué, qu'il subit du dégat
+            infoCollision.gameObject.GetComponent<GestionReptiliensNormal>().degat = true;
         }
 
         //Si Lola est en attaque et armée lors de la collision avec un reptilien, elle fera perd 2 points de vie au reptilien touché, en accedeant au script qui gère les reptiliens et en changeant la variable de vie 
@@ -327,5 +330,6 @@ public class ControleLola : MonoBehaviour
     {
 
     }
+
 }
 

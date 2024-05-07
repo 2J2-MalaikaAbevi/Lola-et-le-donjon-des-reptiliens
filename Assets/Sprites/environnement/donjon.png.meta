@@ -670,7 +670,7 @@ TextureImporter:
         width: 32
         height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -678,6 +678,48 @@ TextureImporter:
       bones: []
       spriteID: 5319c19684bd745468e4329cdb3fa59b
       internalID: 2023301370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barreau_side
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 299
+        width: 2
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7590293ac0616438db898c22a87386
+      internalID: 1292220435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: donjon_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 262
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f224f8b6fb9ab47958884646de0b4a
+      internalID: 55231365
       vertices: []
       indices: 
       edges: []
@@ -707,9 +749,11 @@ TextureImporter:
       Tiles_7: -1627172286
       Tiles_8: 1829101790
       Tiles_9: 1847890643
+      barreau_side: 1292220435
       donjon_0: 1712765868
       donjon_1: 450217319
       donjon_10: 2023301370
+      donjon_11: 55231365
       donjon_2: -608165757
       donjon_3: 461888394
       donjon_4: 1378700850
