@@ -13,18 +13,21 @@ using UnityEngine;
 //https://forum.unity.com/threads/making-enemy-ai-follow-script-without-rotating-the-gameobject.255760/
 public class SuiviEnnemiAi : MonoBehaviour
 {
-	public GameObject laCibleJoueur;
+	public GameObject laCibleJoueur; //Variable pour enregistrwer la cible, c'est-à-dire le joueur
 	float vitesse;
 
 	void Start()
 	{
-		vitesse = Random.Range(0.1f, 2f);
+		vitesse = Random.Range(0.1f, 2f); //On donne une vitesse aléatoire à l'ennemi
 	}
 
 
 	void Update()
-	{		
+	{	
+		//On détermine la vitesse de rapprochement de l'ennemi sur le temps
 		float etape = vitesse * Time.deltaTime;
+
+		//On attribue une nouvelle position à l'ennemi, une position qui fait un suivi jusqu'à la position actuelle de la cible avec une vitesse de rapprochement (etape)
 		transform.position = Vector3.MoveTowards(transform.position, laCibleJoueur.transform.position, etape);
 	}
 

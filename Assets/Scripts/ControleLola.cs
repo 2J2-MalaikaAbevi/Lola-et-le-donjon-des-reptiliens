@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using TMPro;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 /* Fonctionnement et utilité générale du script:
    Gestion des déplacements horizontaux et verticaux de Lola à l'aide des touches : Left (ou A), Right (ou D), Up (ou W) et Down (ou S).
@@ -157,6 +158,8 @@ public class ControleLola : MonoBehaviour
             redemarrerPartie.SetActive(true);
             //Activer le texte de redémarrage de partie
             affichageRecommencerPartie.gameObject.SetActive(true);
+
+            Invoke("DemarrerGulag", 3f);
         }
 
         if (lesVies == 1)
@@ -331,5 +334,10 @@ public class ControleLola : MonoBehaviour
 
     }
 
+    //Fonction pour le démarrage de la scène où il y a le gulag         ---À travailler---
+    void DemarrerGulag()
+    {
+        SceneManager.LoadScene(3);    
+    }
 }
 

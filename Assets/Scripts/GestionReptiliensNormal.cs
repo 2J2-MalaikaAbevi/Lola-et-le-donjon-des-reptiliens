@@ -35,8 +35,6 @@ public class GestionReptiliensNormal : MonoBehaviour
         //Si la vie est à 0, on gère la mort du reptilien
         if(lesVies == 0)
         {
-            //On désactive le reptilien pour qu'il disparaisse
-            //gameObject.SetActive(false);
 
             //On fait jouer l'animation de mort
             GetComponent<Animator>().SetBool("mort", true);
@@ -45,7 +43,7 @@ public class GestionReptiliensNormal : MonoBehaviour
             estMort = true;
 
             //Et on invoque une fonction qui s'occupe de la réapparition après 10 sec
-            Invoke("ApparitionReptilien", 10f);
+            Invoke("TuerReptilien", 0.5f);
         }
 
         //GESTION DE L'ANIMATION D'ATTAQUE DU REPTILIEN
@@ -65,12 +63,14 @@ public class GestionReptiliensNormal : MonoBehaviour
     }
 
     //Fonction pour faire réapparaitre le reptilien avec de la vie
-    void ApparitionReptilien()
+    void TuerReptilien()
     {
+        //On désactive le reptilien pour qu'il disparaisse
+        gameObject.SetActive(false);
         //On redonne 2 points de vie au reptilien
-        lesVies = 2;
+        //lesVies = 2;
         //On le rend actif
-        gameObject.SetActive(true);
+        //gameObject.SetActive(true);
     }
 
     void DesactiverAttaque()
