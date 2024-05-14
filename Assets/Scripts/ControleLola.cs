@@ -98,9 +98,6 @@ public class ControleLola : MonoBehaviour
                 vitesseY = GetComponent<Rigidbody2D>().velocity.y;                
             }
 
-            //Puis on met les valeurs de vitesses pour la vélocité
-            GetComponent<Rigidbody2D>().velocity = new Vector2(vitesseX, vitesseY);
-
 
             //Gestion de la touche pour l'attaque avec la barre d'espace et le mode attaque OU attaque armée à "true"
             if (Input.GetKeyDown(KeyCode.Space) && enAttaque == false)
@@ -113,14 +110,24 @@ public class ControleLola : MonoBehaviour
 
                 //Invoquer la fonction pour arreter l'attaque après 0,5sec, le temps que l'animation joue
                 Invoke("AnnulerAttaque", 0.5f);
+                
+                
 
                 //On augmente la vitesse le Lola pour la propulser lors de l'attaque si elle n'est pas déja à la vitesse limite
-                if(Mathf.Abs(vitesseX) < vitesseLimite)
+                if(GetComponent<SpriteRenderer>().flipX)
                 {
-                    vitesseMax *= 1.5f;
+                    vitesseX = -20f;
+                }
+                else if (!GetComponent<SpriteRenderer>().flipX)
+                {
+                    vitesseX = 20f;
                 }
 
             }
+
+            //Puis on met les valeurs de vitesses pour la vélocité
+            GetComponent<Rigidbody2D>().velocity = new Vector2(vitesseX, vitesseY);
+
 
             //On active la marche seulement si la vitesse en X ou en Y est au dela de 0,9
             if(Mathf.Abs(vitesseX) > 0.9 || Mathf.Abs(vitesseY) > 0.9)
@@ -210,8 +217,9 @@ public class ControleLola : MonoBehaviour
         //Si on a récuperé 5 clés, la porte s'ouvre
         if(compteurCle == 5)
         {
-        //On change l'image de la porte fermée pour une image de porte ouverte
-        laPorteBoss.GetComponent<SpriteRenderer>().sprite = porteOuverte;
+            //On change l'image de la porte fermée pour une image de porte ouverte
+            laPorteBoss.GetComponent<SpriteRenderer>().sprite = porteOuverte;
+            laPorteBoss.GetComponent<BoxCollider2D>().enabled = false;
         }
     }
 
@@ -309,7 +317,7 @@ public class ControleLola : MonoBehaviour
         enAttaque = false;
 
         //Ramener la vitesse de Lola à la normale
-        vitesseMax /= 1.5f;
+        //vitesseMax /= 1.5f;
         
         //On désactive l'animation d'attaque
         GetComponent<Animator>().SetBool("attaque", false);
@@ -337,7 +345,7 @@ public class ControleLola : MonoBehaviour
     //Fonction pour le démarrage de la scène où il y a le gulag         ---À travailler---
     void DemarrerGulag()
     {
-        SceneManager.LoadScene(3);    
+        SceneManager.LoadScene("GrandChoix");    
     }
 }
 

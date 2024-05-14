@@ -2,14 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-/* Fonctionnement et utilité générale du script:
-   Gestion des animations
-   Gestion des vies des reptiliens 
-   Par : Malaïka Abevi
-   Dernière modification : 15/04/2024
-*/
-
-public class GestionReptiliensNormal : MonoBehaviour
+public class GestionMaitreReptilien : MonoBehaviour
 {
     public float lesVies = 2; //Variable pour la vie des reptiliens ordinaires
     public GameObject joueur; //Variable pour enregistrer Lola
@@ -30,8 +23,9 @@ public class GestionReptiliensNormal : MonoBehaviour
         print(estMort);
         //GESTION DE LA VIE DU REPTILIEN
         //Si la vie est à 0, on gère la mort du reptilien
-        if(lesVies == 0)
+        if (lesVies == 0)
         {
+
             //On fait jouer l'animation de mort
             GetComponent<Animator>().SetBool("mort", true);
 
@@ -44,18 +38,16 @@ public class GestionReptiliensNormal : MonoBehaviour
 
         //GESTION DE L'ANIMATION D'ATTAQUE DU REPTILIEN
         //Si le reptilien est en attaque
-        if(enAttaque)
+        if (enAttaque)
         {
             //On appelle une fonction qui désactivera ce qui est lié à l'attaque apres 0,5sec
             Invoke("DesactiverAttaque", 0.5f);
         }
 
-        if(degat)
+        if (degat)
         {
             Invoke("DesactiverDegat", 0.5f);
         }
-
-        GestionPointBataille();
     }
 
     //Fonction pour faire réapparaitre le reptilien avec de la vie
@@ -83,19 +75,5 @@ public class GestionReptiliensNormal : MonoBehaviour
         degat = false;
         //Arreter l'animation d'attaque du reptilien
         GetComponent<Animator>().SetBool("degat", false);
-    }
-
-    void GestionPointBataille()
-    {
-        if (estMort)
-        {
-            lesVies = 2;
-            estMort = false;
-            if (gameObject.name == "Reptilien1") GestionBataille.reptileBataille1++;
-            if (gameObject.name == "Reptilien2") GestionBataille.reptileBataille2++;
-            if (gameObject.name == "Reptilien3") GestionBataille.reptileBataille3++;
-            if (gameObject.name == "Reptilien4") GestionBataille.reptileBataille4++;
-            if (gameObject.name == "Reptilien5") GestionBataille.reptileBataille5++;
-        }
     }
 }

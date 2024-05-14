@@ -17,5 +17,11 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/FinMort.unity
     guid: c80ea7776b8a81f42904c8171f0e0c4d
+  - enabled: 1
+    path: Assets/Scenes/GrandChoix.unity
+    guid: 828b9397ee8bc044b83dd2c869ca41ac
+  - enabled: 1
+    path: Assets/Scenes/Goulag.unity
+    guid: 2248ab2c145845445a5c387fca8c9564
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
