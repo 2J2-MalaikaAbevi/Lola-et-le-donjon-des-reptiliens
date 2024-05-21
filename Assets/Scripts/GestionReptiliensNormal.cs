@@ -25,9 +25,6 @@ public class GestionReptiliensNormal : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
-
-        print(estMort);
         //GESTION DE LA VIE DU REPTILIEN
         //Si la vie est à 0, on gère la mort du reptilien
         if(lesVies == 0)
