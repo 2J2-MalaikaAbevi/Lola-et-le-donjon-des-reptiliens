@@ -23,5 +23,17 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Goulag.unity
     guid: 2248ab2c145845445a5c387fca8c9564
+  - enabled: 1
+    path: Assets/Scenes/Contexte.unity
+    guid: 2f08eaed6b8a29347b56a80f9ac6b97f
+  - enabled: 1
+    path: Assets/Scenes/Instructions.unity
+    guid: eb9900caa00982c408003afdc409bb41
+  - enabled: 1
+    path: Assets/Scenes/ItemsJeu.unity
+    guid: 40c44f773c664274e967c12f886fe79a
+  - enabled: 1
+    path: Assets/Scenes/DescriEnnemiVie.unity
+    guid: 6def9f45e46139b4b93b9d82205886ea
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

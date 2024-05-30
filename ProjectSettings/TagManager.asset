@@ -6,6 +6,7 @@ TagManager:
   tags:
   - reptileNormal
   - Reptillien1
+  - gargouille
   layers:
   - Default
   - TransparentFX
@@ -13,7 +14,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - EnnemiDegat
   - 
   - 
   - 

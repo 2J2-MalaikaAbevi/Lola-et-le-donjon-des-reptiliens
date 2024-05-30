@@ -15,17 +15,33 @@ public class SuiviMaitreReptilienAi : MonoBehaviour
 		vitesse = Random.Range(vitesseMin, vitesseMax); //On donne une vitesse aléatoire à l'ennemi
 	}
 
-
 	void Update()
 	{
-		//On détermine la vitesse de rapprochement de l'ennemi sur le temps
-		float etape = vitesse * Time.deltaTime;
+		Vector2 direction = laCibleJoueur.transform.position - transform.position;
 
-		//On attribue une nouvelle position à l'ennemi, une position qui fait un suivi jusqu'à la position actuelle de la cible avec une vitesse de rapprochement (etape)
-		transform.position = Vector3.MoveTowards(transform.position, laCibleJoueur.transform.position, etape);
+		GetComponent<Rigidbody2D>().velocity = direction.normalized * vitesse;
 
-		GetComponent<Animator>().SetBool("marche", true);
+
+		if(GetComponent<Rigidbody2D>().velocity.x > Mathf.Abs(0.01f))
+        {
+			GetComponent<Animator>().SetBool("marche", true);
+		}
+        else
+        {
+			GetComponent<Animator>().SetBool("marche", false);
+		}
+
+		
+		if(GetComponent<Rigidbody2D>().velocity.x > 0)
+        {
+			GetComponent<SpriteRenderer>().flipX = false;
+        }
+		else if (GetComponent<Rigidbody2D>().velocity.x < 0)
+		{
+			GetComponent<SpriteRenderer>().flipX = true;
+		}
 	}
+	
 
 	void OnCollisionEnter2D(Collision2D infoCollision)
 	{
